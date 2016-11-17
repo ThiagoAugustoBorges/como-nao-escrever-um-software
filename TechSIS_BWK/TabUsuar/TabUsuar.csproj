@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BCE652D4-995A-41EC-98B4-7D65EC270C1B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TabUsuar</RootNamespace>
+    <AssemblyName>TabUsuar</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FromEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromEx.Designer.cs">
+      <DependentUpon>FromEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TabUsuar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabUsuar.Designer.cs">
+      <DependentUpon>TabUsuar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aba 1 - Form\TabUsuar_MET.cs" />
+    <Compile Include="Aba 1 - Form\TabUsuar_AppaButtons.cs" />
+    <Compile Include="Aba 1 - Form\TabUsuar_CamposObrig.cs" />
+    <Compile Include="Aba 1 - Form\TabUsuar_btnGravar.cs" />
+    <Compile Include="Aba 1 - Form\TabUsuar_ExecSETAS.cs" />
+    <Compile Include="Aba 2 - Pesquisa\TabUsuar_Pesquisa.cs" />
+    <Compile Include="Aba 4 - Lixeira\TabUsuar_Lixeira.cs" />
+    <Compile Include="Aba 5 - Histórico\TabUsuar_Histórico.cs" />
+    <Compile Include="Aba 3 - Impressão\TabUsuar_Impressao.cs" />
+    <Compile Include="CLASS\TabUsuar_FILTROS.cs" />
+    <Compile Include="CLASS\TabUsuar_Permi.cs" />
+    <Compile Include="TabUsuar_CALL.cs" />
+    <Compile Include="TabUsuar_SenhaINC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabUsuar_SenhaINC.Designer.cs">
+      <DependentUpon>TabUsuar_SenhaINC.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FromEx.resx">
+      <DependentUpon>FromEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabUsuar.resx">
+      <DependentUpon>TabUsuar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabUsuar_SenhaINC.resx">
+      <DependentUpon>TabUsuar_SenhaINC.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\CfgComun\CfgComun.csproj">
+      <Project>{B59259B0-C951-4E02-B038-69BC0CE23F99}</Project>
+      <Name>CfgComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesEmpre.cs\PesEmpre.cs.csproj">
+      <Project>{0680062C-D4EB-48D7-A188-4948AA7142D6}</Project>
+      <Name>PesEmpre.cs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesUsuar.cs\PesUsuar.cs.csproj">
+      <Project>{5371FCDD-BC77-4F6F-8E47-5C57CC262AFE}</Project>
+      <Name>PesUsuar.cs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

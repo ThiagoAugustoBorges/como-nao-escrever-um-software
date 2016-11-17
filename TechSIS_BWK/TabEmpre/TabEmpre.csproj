@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F7116C9-3F3E-4FDA-82EE-875E23927CCD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TabEmpre</RootNamespace>
+    <AssemblyName>TabEmpre</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SenhaAcesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SenhaAcesso.Designer.cs">
+      <DependentUpon>SenhaAcesso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TabEmpre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabEmpre.Designer.cs">
+      <DependentUpon>TabEmpre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aba 1 - Form\TabEmpre_Métodos.cs" />
+    <Compile Include="Aba 1 - Form\TabEmpre_Gravar.cs" />
+    <Compile Include="Aba 1 - Form\TabEmpre_ApareButtons.cs" />
+    <Compile Include="Others\TabEmpre_Permissão.cs" />
+    <Compile Include="Aba 1 - Form\TabEmpre_CamposObrig.cs" />
+    <Compile Include="Aba 1 - Form\TabEmpre_ExecSETAs.cs" />
+    <Compile Include="Aba 3 - Pesquisa\TabEmpre_PesguisaGo.cs" />
+    <Compile Include="Others\TabEmpre_FILTROs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Aba 2 - Compl\" />
+    <Folder Include="Aba 4 - Impressão\" />
+    <Folder Include="Aba 5 - Histórico\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SenhaAcesso.resx">
+      <DependentUpon>SenhaAcesso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabEmpre.resx">
+      <DependentUpon>TabEmpre.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CfgComun\CfgComun.csproj">
+      <Project>{B59259B0-C951-4E02-B038-69BC0CE23F99}</Project>
+      <Name>CfgComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesCidad.cs\PesCidad.cs.csproj">
+      <Project>{F4A05902-AA1A-4656-9E99-CFB136845096}</Project>
+      <Name>PesCidad.cs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,4 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\bin\Release\CfgComun.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\bin\Release\CfgComun.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Release\CfgComun.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Release\CfgComun.pdb

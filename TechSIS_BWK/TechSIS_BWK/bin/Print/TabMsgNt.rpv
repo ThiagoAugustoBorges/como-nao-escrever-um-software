@@ -1,0 +1,262 @@
+Orientation=1
+Papersize=A4
+Report_title=RELATÓRIO DE CADASTROS DE MENSAGENS
+{f=Segoe UI Symbol;s=20;b=y}
+[header]
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}TECHSIS EMPRESA DEMONSTRAÇÃO - CONTROLE{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}20/11/2012 08:55{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE MENSAGENS - {TAB=150}{c=8}01.05.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}TECHSIS EMPRESA DEMONSTRAÇÃO - CONTROLE{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}11.111.111/1111-80{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}000001{F=Courier New;U=n;S=10}{TAB=100}UBERABA{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100}MG {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1490} *-----------DESCRIÇÃO DA MENSAGEM-----------*
+{F=Courier New;b=Y;S=08;c=0}{6180} *-EMPRESA-*
+{F=Courier New;b=Y;S=08;c=0}{7310} *--------DESCRIÇÃO DA EMPRESA---------*{\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}001
+{F=Courier New;b=N;S=10;c=0}{1560}THIAGO
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}002
+{F=Courier New;b=N;S=10;c=0}{1560}ASDFJA
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}003
+{F=Courier New;b=N;S=10;c=0}{1560}ÇALDFSKJ
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}004
+{F=Courier New;b=N;S=10;c=0}{1560}AÇLDFSJK
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}005
+{F=Courier New;b=N;S=10;c=0}{1560}AÇLSDJFK
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}006
+{F=Courier New;b=N;S=10;c=0}{1560}ASÇLDFKJ
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}007
+{F=Courier New;b=N;S=10;c=0}{1560}AÇSDLFKJ
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}008
+{F=Courier New;b=N;S=10;c=0}{1560}ALSDFKJ
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}009
+{F=Courier New;b=N;S=10;c=0}{1560}ALDKFSJ
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}010
+{F=Courier New;b=N;S=10;c=0}{1560}AÇLDJFSK
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}011
+{F=Courier New;b=N;S=10;c=0}{1560}ASÇLDKJF
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}012
+{F=Courier New;b=N;S=10;c=0}{1560}ÇASLDKJF
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}013
+{F=Courier New;b=N;S=10;c=0}{1560}ÇALSDKJF
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}014
+{F=Courier New;b=N;S=10;c=0}{1560}ÍASJFD
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}015
+{F=Courier New;b=N;S=10;c=0}{1560}ÇASDIF
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}016
+{F=Courier New;b=N;S=10;c=0}{1560}AOSDIUF
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}017
+{F=Courier New;b=N;S=10;c=0}{1560}ASODPF
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}018
+{F=Courier New;b=N;S=10;c=0}{1560}SÇLFDJGKA
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}019
+{F=Courier New;b=N;S=10;c=0}{1560}ASFOIU
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}020
+{F=Courier New;b=N;S=10;c=0}{1560}SADFI
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}021
+{F=Courier New;b=N;S=10;c=0}{1560}ASÇOGIUQ
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}022
+{F=Courier New;b=N;S=10;c=0}{1560}APÓU
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}023
+{F=Courier New;b=N;S=10;c=0}{1560}PICUA
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}024
+{F=Courier New;b=N;S=10;c=0}{1560}AÇSIUG
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}025
+{F=Courier New;b=N;S=10;c=0}{1560}ÁPSIDUGDA
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}026
+{F=Courier New;b=N;S=10;c=0}{1560}´PASIFUGS
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}027
+{F=Courier New;b=N;S=10;c=0}{1560}PSIFUGA
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}028
+{F=Courier New;b=N;S=10;c=0}{1560}ASPIOUG
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}
+{F=Courier New;b=N;S=10;c=0}{850}029
+{F=Courier New;b=N;S=10;c=0}{1560}AÇSDIOJFA
+{F=Courier New;b=N;S=10;c=0}{6400}000004
+{F=Courier New;b=N;S=10;c=0}{7400}TECHSIS EMPRESA DEMONSTRAÇÃO - CO {\n}

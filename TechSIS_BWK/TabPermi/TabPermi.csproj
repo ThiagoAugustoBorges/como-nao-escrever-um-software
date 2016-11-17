@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{10BDBA58-D92B-4739-B772-7C06BE264A1C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TabPermi</RootNamespace>
+    <AssemblyName>TabPermi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FromEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromEx.Designer.cs">
+      <DependentUpon>FromEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromEx_BLOC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromEx_BLOC.Designer.cs">
+      <DependentUpon>FromEx_BLOC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TabPermi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabPermi.Designer.cs">
+      <DependentUpon>TabPermi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aba 1 - Form\TabPermi_MET.cs" />
+    <Compile Include="Aba 1 - Form\TabPermi_AppaButtons.cs" />
+    <Compile Include="Aba 1 - Form\TabPermi_btnGRAVAR.cs" />
+    <Compile Include="Aba 2 - Pesquisa\TabPermi_Pesquisa.cs" />
+    <Compile Include="Aba 4 - Histórico\TabPermi_Histórico.cs" />
+    <Compile Include="Aba 3 - Impressão\TabPermi_Impressão.cs" />
+    <Compile Include="CLASS\TabPermi_FILTROS.cs" />
+    <Compile Include="CLASS\TabPermi_Permissão.cs" />
+    <Compile Include="TabPermi_CALL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FromEx.resx">
+      <DependentUpon>FromEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromEx_BLOC.resx">
+      <DependentUpon>FromEx_BLOC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabPermi.resx">
+      <DependentUpon>TabPermi.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\CfgComun\CfgComun.csproj">
+      <Project>{B59259B0-C951-4E02-B038-69BC0CE23F99}</Project>
+      <Name>CfgComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesProgr.cs\PesProgr.cs.csproj">
+      <Project>{AFA9E014-318D-4873-90DB-C6AF590B8181}</Project>
+      <Name>PesProgr.cs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesUsuar.cs\PesUsuar.cs.csproj">
+      <Project>{5371FCDD-BC77-4F6F-8E47-5C57CC262AFE}</Project>
+      <Name>PesUsuar.cs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

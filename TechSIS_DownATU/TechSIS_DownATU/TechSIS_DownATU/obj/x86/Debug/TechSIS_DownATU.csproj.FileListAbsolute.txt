@@ -1,0 +1,10 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\bin\Debug\TechSIS_DownATU.exe
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\bin\Debug\TechSIS_DownATU.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\obj\x86\Debug\TechSIS_DownATU.Properties.Resources.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\obj\x86\Debug\TechSIS_DownATU.TechSIS_DownATU.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\obj\x86\Debug\TechSIS_DownATU.csproj.GenerateResource.Cache
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\obj\x86\Debug\TechSIS_DownATU.exe
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\obj\x86\Debug\TechSIS_DownATU.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\obj\x86\Debug\TechSIS_DownATU.csprojResolveAssemblyReference.cache
+D:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\obj\x86\Debug\TechSIS_DownATU.exe
+D:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_DownATU\TechSIS_DownATU\TechSIS_DownATU\obj\x86\Debug\TechSIS_DownATU.pdb

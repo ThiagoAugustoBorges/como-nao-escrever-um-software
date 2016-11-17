@@ -1,0 +1,13 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\bin\Release\TabNewSe.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\bin\Release\TabNewSe.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\bin\Release\CfgComun.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\bin\Release\PesUsuar.cs.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\bin\Release\PesEmpre.cs.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\bin\Release\CfgComun.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\bin\Release\PesUsuar.cs.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\bin\Release\PesEmpre.cs.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\obj\Release\TabNewSe.TabNewSe.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\obj\Release\TabNewSe.csproj.GenerateResource.Cache
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\obj\Release\TabNewSe.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\obj\Release\TabNewSe.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabNewSe\obj\Release\TabNewSe.csprojResolveAssemblyReference.cache

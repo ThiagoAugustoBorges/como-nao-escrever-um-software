@@ -1,0 +1,11 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\bin\Release\PesUsuar.cs.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\bin\Release\PesUsuar.cs.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\bin\Release\CfgComun.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\bin\Release\PesEmpre.cs.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\bin\Release\CfgComun.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\bin\Release\PesEmpre.cs.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\obj\Release\PesUsuar.cs.PesUsuar.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\obj\Release\PesUsuar.cs.csproj.GenerateResource.Cache
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\obj\Release\PesUsuar.cs.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\obj\Release\PesUsuar.cs.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesUsuar.cs\obj\Release\PesUsuar.cs.csprojResolveAssemblyReference.cache

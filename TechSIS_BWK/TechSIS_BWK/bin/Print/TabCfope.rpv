@@ -1,0 +1,2220 @@
+Orientation=1
+Papersize=A4
+Report_title=RELATÓRIO DE CADASTROS DE CFOPs
+{f=Segoe UI Symbol;s=20;b=y}
+[header]
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}ERRO{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}17/02/2013 22:59{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE CFOPs - {TAB=150}{c=8}01.03.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}ERRO{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}00ERRO{F=Courier New;U=n;S=10}{TAB=100}{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}ERRO{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}ERRO{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1530} *-----------------DESCRIÇÃO DO CÓDIGO FISCAL DE OPERAÇÃO-----------------*
+{F=Courier New;b=Y;S=08;c=0}{9300} *-C. IND-*
+{F=Courier New;b=Y;S=08;c=0}{10310} *-C. COM-*{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1100
+{F=Courier New;b=N;S=10;c=0}{1600}COMPRA P/INDUSTR, COMERC. OU PREST.DE SERVICO
+{F=Courier New;b=N;S=10;c=0}{9650}1100
+{F=Courier New;b=N;S=10;c=0}{10610}1100{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1101
+{F=Courier New;b=N;S=10;c=0}{1600}Compra para industrializacao
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1101{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1102
+{F=Courier New;b=N;S=10;c=0}{1600}Compra para comercializacao
+{F=Courier New;b=N;S=10;c=0}{9650}1102
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1111
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/industrializ,merc.rec.ant.consig.ind
+{F=Courier New;b=N;S=10;c=0}{9650}1111
+{F=Courier New;b=N;S=10;c=0}{10610}1111{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1113
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/comercializ.,merc.rec.ant.consig.com
+{F=Courier New;b=N;S=10;c=0}{9650}1113
+{F=Courier New;b=N;S=10;c=0}{10610}1113{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1116
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/industrializ orig.enc.p/receb.futuro
+{F=Courier New;b=N;S=10;c=0}{9650}1116
+{F=Courier New;b=N;S=10;c=0}{10610}1116{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1117
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/comercializ.orig.enc.p/rec.futuro 
+{F=Courier New;b=N;S=10;c=0}{9650}1117
+{F=Courier New;b=N;S=10;c=0}{10610}1117{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1118
+{F=Courier New;b=N;S=10;c=0}{1600}Compra mer.p/comerc.pelo adq.orig.venda ordem
+{F=Courier New;b=N;S=10;c=0}{9650}1118
+{F=Courier New;b=N;S=10;c=0}{10610}1118{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1120
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/ind.em venda ordem,ja rec.vend.remet
+{F=Courier New;b=N;S=10;c=0}{9650}1120
+{F=Courier New;b=N;S=10;c=0}{10610}1120{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1121
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/comerc.venda ordem,ja rec.vend.remet
+{F=Courier New;b=N;S=10;c=0}{9650}1121
+{F=Courier New;b=N;S=10;c=0}{10610}1121{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1122
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/ind.merc.rem.p/forn.ind.s/trans.est.
+{F=Courier New;b=N;S=10;c=0}{9650}1122
+{F=Courier New;b=N;S=10;c=0}{10610}1122{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1124
+{F=Courier New;b=N;S=10;c=0}{1600}Industrializacao efetuada por outra empresa 
+{F=Courier New;b=N;S=10;c=0}{9650}1124
+{F=Courier New;b=N;S=10;c=0}{10610}1124{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1125
+{F=Courier New;b=N;S=10;c=0}{1600}Industrializacao efetuada por outra empresa
+{F=Courier New;b=N;S=10;c=0}{9650}1125
+{F=Courier New;b=N;S=10;c=0}{10610}1125{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1126
+{F=Courier New;b=N;S=10;c=0}{1600}Compra para utilizacao prestacao de servico 
+{F=Courier New;b=N;S=10;c=0}{9650}1126
+{F=Courier New;b=N;S=10;c=0}{10610}1126{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1150
+{F=Courier New;b=N;S=10;c=0}{1600}TRANSF.P/IND., COMERC.OU PRESTACAO DE SERVICO
+{F=Courier New;b=N;S=10;c=0}{9650}1150
+{F=Courier New;b=N;S=10;c=0}{10610}1150{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1151
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1151
+{F=Courier New;b=N;S=10;c=0}{10610}1151{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1152
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1152
+{F=Courier New;b=N;S=10;c=0}{10610}1152{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1153
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.energia eletrica para distribuicao 
+{F=Courier New;b=N;S=10;c=0}{9650}1153
+{F=Courier New;b=N;S=10;c=0}{10610}1153{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1154
+{F=Courier New;b=N;S=10;c=0}{1600}Transfe.para utilizacao na prest. de servico 
+{F=Courier New;b=N;S=10;c=0}{9650}1154
+{F=Courier New;b=N;S=10;c=0}{10610}1154{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1200
+{F=Courier New;b=N;S=10;c=0}{1600}DEV.VENDAS PROD.PROP,DE TERC.OU ANUL.VALORES 
+{F=Courier New;b=N;S=10;c=0}{9650}1200
+{F=Courier New;b=N;S=10;c=0}{10610}1200{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1201
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda de producao do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1201{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1202
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda mercadoria adq.ou receb.terceiros 
+{F=Courier New;b=N;S=10;c=0}{9650}1202
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1203
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda prod.estab, dest.Zona Franca Manaus
+{F=Courier New;b=N;S=10;c=0}{9650}1203
+{F=Courier New;b=N;S=10;c=0}{10610}1203{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1204
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.vda merc.adq.rec.terc.dest.Zona Fr.Manaus
+{F=Courier New;b=N;S=10;c=0}{9650}1204
+{F=Courier New;b=N;S=10;c=0}{10610}1204{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1205
+{F=Courier New;b=N;S=10;c=0}{1600}Anul.vr rel.prestacao servico de comunicacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1205
+{F=Courier New;b=N;S=10;c=0}{10610}1205{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1206
+{F=Courier New;b=N;S=10;c=0}{1600}Anul.vr rel.prestacao servico de transporte 
+{F=Courier New;b=N;S=10;c=0}{9650}1206
+{F=Courier New;b=N;S=10;c=0}{10610}1206{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1207
+{F=Courier New;b=N;S=10;c=0}{1600}Anul.vr rel.a venda de energia eletrica 
+{F=Courier New;b=N;S=10;c=0}{9650}1207
+{F=Courier New;b=N;S=10;c=0}{10610}1207{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1208
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.producao estab.rem.em transferencia 
+{F=Courier New;b=N;S=10;c=0}{9650}1208
+{F=Courier New;b=N;S=10;c=0}{10610}1208{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1209
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.adq.rec.terc.remet. em transferencia
+{F=Courier New;b=N;S=10;c=0}{9650}1209
+{F=Courier New;b=N;S=10;c=0}{10610}1209{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1250
+{F=Courier New;b=N;S=10;c=0}{1600}COMPRAS DE ENERGIA ELETRICA 
+{F=Courier New;b=N;S=10;c=0}{9650}1250
+{F=Courier New;b=N;S=10;c=0}{10610}1250{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1251
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de energia eletrica p/distr.ou comerc.
+{F=Courier New;b=N;S=10;c=0}{9650}1251
+{F=Courier New;b=N;S=10;c=0}{10610}1251{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1252
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de energia eletrica p/estab.industrial
+{F=Courier New;b=N;S=10;c=0}{9650}1252
+{F=Courier New;b=N;S=10;c=0}{10610}1252{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1253
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de energia eletrica p/estab.comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1253
+{F=Courier New;b=N;S=10;c=0}{10610}1253{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1254
+{F=Courier New;b=N;S=10;c=0}{1600}Compra energ.eletr.p/estab.prest.serv.transp.
+{F=Courier New;b=N;S=10;c=0}{9650}1254
+{F=Courier New;b=N;S=10;c=0}{10610}1254{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1255
+{F=Courier New;b=N;S=10;c=0}{1600}Compra energ.eletr.p/estab.prest.serv.comunic
+{F=Courier New;b=N;S=10;c=0}{9650}1255
+{F=Courier New;b=N;S=10;c=0}{10610}1255{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1256
+{F=Courier New;b=N;S=10;c=0}{1600}Compra energ.eletr.p/estab.de produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1256
+{F=Courier New;b=N;S=10;c=0}{10610}1256{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1257
+{F=Courier New;b=N;S=10;c=0}{1600}Compra en.eletr.p/cons.por demanda contratada
+{F=Courier New;b=N;S=10;c=0}{9650}1257
+{F=Courier New;b=N;S=10;c=0}{10610}1257{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1300
+{F=Courier New;b=N;S=10;c=0}{1600}AQUISICOES DE SERVICOS DE COMUNICACAO 
+{F=Courier New;b=N;S=10;c=0}{9650}1300
+{F=Courier New;b=N;S=10;c=0}{10610}1300{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1301
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.p/exec.servico mesma natur
+{F=Courier New;b=N;S=10;c=0}{9650}1301
+{F=Courier New;b=N;S=10;c=0}{10610}1301{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1302
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.por estabelec.industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1302
+{F=Courier New;b=N;S=10;c=0}{10610}1302{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1303
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.por estabelec.comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1303
+{F=Courier New;b=N;S=10;c=0}{10610}1303{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1304
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.p/estab.prest.serv.transp.
+{F=Courier New;b=N;S=10;c=0}{9650}1304
+{F=Courier New;b=N;S=10;c=0}{10610}1304{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1305
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.p/estab.ger.dist.en.eletr.
+{F=Courier New;b=N;S=10;c=0}{9650}1305
+{F=Courier New;b=N;S=10;c=0}{10610}1305{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1306
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.p/estab. de produtor rural
+{F=Courier New;b=N;S=10;c=0}{9650}1306
+{F=Courier New;b=N;S=10;c=0}{10610}1306{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1350
+{F=Courier New;b=N;S=10;c=0}{1600}AQUISICOES DE SERVICOS DE TRANSPORTE 
+{F=Courier New;b=N;S=10;c=0}{9650}1350
+{F=Courier New;b=N;S=10;c=0}{10610}1350{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1351
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transporte p/exec.serv.mesma natur
+{F=Courier New;b=N;S=10;c=0}{9650}1351
+{F=Courier New;b=N;S=10;c=0}{10610}1351{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1352
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transporte p/estabelec.industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1352
+{F=Courier New;b=N;S=10;c=0}{10610}1352{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1353
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transporte p/estabelec.comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1353
+{F=Courier New;b=N;S=10;c=0}{10610}1353{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1354
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transp.p/estab.prest.serv.comunic.
+{F=Courier New;b=N;S=10;c=0}{9650}1354
+{F=Courier New;b=N;S=10;c=0}{10610}1354{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1355
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transp.p/estab.ger.dist.en.eletr. 
+{F=Courier New;b=N;S=10;c=0}{9650}1355
+{F=Courier New;b=N;S=10;c=0}{10610}1355{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1356
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transp.p/estab.de produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1356
+{F=Courier New;b=N;S=10;c=0}{10610}1356{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1400
+{F=Courier New;b=N;S=10;c=0}{1600}ENTRADAS MERC.SUJ. REGIME SUBST.TRIBUTARIA 
+{F=Courier New;b=N;S=10;c=0}{9650}1400
+{F=Courier New;b=N;S=10;c=0}{10610}1400{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1401
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/industr.op.suj.reg.subst.tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1401
+{F=Courier New;b=N;S=10;c=0}{10610}1401{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1403
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/comerc.op.suj.reg.subst.tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1403
+{F=Courier New;b=N;S=10;c=0}{10610}1403{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1406
+{F=Courier New;b=N;S=10;c=0}{1600}Compra bem ativo imobiliz.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1406
+{F=Courier New;b=N;S=10;c=0}{10610}1406{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1407
+{F=Courier New;b=N;S=10;c=0}{1600}Compra merc.p/uso consumo suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1407
+{F=Courier New;b=N;S=10;c=0}{10610}1407{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1408
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.p/industrializ.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1408
+{F=Courier New;b=N;S=10;c=0}{10610}1408{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1409
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.p/comerc.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1409
+{F=Courier New;b=N;S=10;c=0}{10610}1409{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1410
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda prod.estab.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1410
+{F=Courier New;b=N;S=10;c=0}{10610}1410{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1411
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda merc.adq.rec.terc.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1411
+{F=Courier New;b=N;S=10;c=0}{10610}1411{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1414
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.prod.est.rem.p/vda fora est.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1414
+{F=Courier New;b=N;S=10;c=0}{10610}1414{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1415
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.m.adq.rec.terc.rem.vda fora est.op.suj.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1415
+{F=Courier New;b=N;S=10;c=0}{10610}1415{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1450
+{F=Courier New;b=N;S=10;c=0}{1600}SISTEMAS DE INTEGRACAO 
+{F=Courier New;b=N;S=10;c=0}{9650}1450
+{F=Courier New;b=N;S=10;c=0}{10610}1450{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1451
+{F=Courier New;b=N;S=10;c=0}{1600}Retorno de animal do estabelecimento produtor
+{F=Courier New;b=N;S=10;c=0}{9650}1451
+{F=Courier New;b=N;S=10;c=0}{10610}1451{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1452
+{F=Courier New;b=N;S=10;c=0}{1600}Retorno de insumo nao utilizado na producao 
+{F=Courier New;b=N;S=10;c=0}{9650}1452
+{F=Courier New;b=N;S=10;c=0}{10610}1452{\n}
+{\np}
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}ERRO{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}17/02/2013 22:59{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE CFOPs - {TAB=150}{c=8}01.03.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}ERRO{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}00ERRO{F=Courier New;U=n;S=10}{TAB=100}{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}ERRO{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}ERRO{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1530} *-----------------DESCRIÇÃO DO CÓDIGO FISCAL DE OPERAÇÃO-----------------*
+{F=Courier New;b=Y;S=08;c=0}{9300} *-C. IND-*
+{F=Courier New;b=Y;S=08;c=0}{10310} *-C. COM-*{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1500
+{F=Courier New;b=N;S=10;c=0}{1600}ENTR.MERC.REM.C/FIM ESP.EXPORT.E EVENT.DEV.
+{F=Courier New;b=N;S=10;c=0}{9650}1500
+{F=Courier New;b=N;S=10;c=0}{10610}1500{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1501
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.rec.c/fim especifico de exportacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1501
+{F=Courier New;b=N;S=10;c=0}{10610}1501{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1503
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.dec.dev.prod.rem.fim esp.export.prod.est
+{F=Courier New;b=N;S=10;c=0}{9650}1503
+{F=Courier New;b=N;S=10;c=0}{10610}1503{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1504
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.dec.dev.merc.rem.fim esp.exp.adq.rec.ter
+{F=Courier New;b=N;S=10;c=0}{9650}1504
+{F=Courier New;b=N;S=10;c=0}{10610}1504{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1550
+{F=Courier New;b=N;S=10;c=0}{1600}OP.COM BENS ATIVO IMOBILIZ.E MAT.P/USO / CONS
+{F=Courier New;b=N;S=10;c=0}{9650}1550
+{F=Courier New;b=N;S=10;c=0}{10610}1550{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1551
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de bem para o ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1551
+{F=Courier New;b=N;S=10;c=0}{10610}1551{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1552
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de bem do ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1552
+{F=Courier New;b=N;S=10;c=0}{10610}1552{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1553
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.de venda de bem do ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1553
+{F=Courier New;b=N;S=10;c=0}{10610}1553{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1554
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.bem ativo imobiliz.rem.uso fora estab.
+{F=Courier New;b=N;S=10;c=0}{9650}1554
+{F=Courier New;b=N;S=10;c=0}{10610}1554{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1555
+{F=Courier New;b=N;S=10;c=0}{1600}Ent.bem ativo imobiliz.terc.rem.p/uso estab.
+{F=Courier New;b=N;S=10;c=0}{9650}1555
+{F=Courier New;b=N;S=10;c=0}{10610}1555{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1556
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de material para uso ou consumo 
+{F=Courier New;b=N;S=10;c=0}{9650}1556
+{F=Courier New;b=N;S=10;c=0}{10610}1556{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1557
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de material para uso ou consumo
+{F=Courier New;b=N;S=10;c=0}{9650}1557
+{F=Courier New;b=N;S=10;c=0}{10610}1557{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1600
+{F=Courier New;b=N;S=10;c=0}{1600}CREDITOS E RESSARCIMENTOS DE ICMS 
+{F=Courier New;b=N;S=10;c=0}{9650}1600
+{F=Courier New;b=N;S=10;c=0}{10610}1600{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1601
+{F=Courier New;b=N;S=10;c=0}{1600}Recebimento, por transferencia, de credito de
+{F=Courier New;b=N;S=10;c=0}{9650}1601
+{F=Courier New;b=N;S=10;c=0}{10610}1601{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1602
+{F=Courier New;b=N;S=10;c=0}{1600}Rec.p/transf.saldo credor ICMS outr.est.m.emp
+{F=Courier New;b=N;S=10;c=0}{9650}1602
+{F=Courier New;b=N;S=10;c=0}{10610}1602{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1603
+{F=Courier New;b=N;S=10;c=0}{1600}Ressarc.ICMS ret.por substituicao tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1603
+{F=Courier New;b=N;S=10;c=0}{10610}1603{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1604
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto credito rel.compra bem p/ativo imob.
+{F=Courier New;b=N;S=10;c=0}{9650}1604
+{F=Courier New;b=N;S=10;c=0}{10610}1604{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1650
+{F=Courier New;b=N;S=10;c=0}{1600}ENTR.COMB,DERIV.OU NAO PETROLEO, E LUBRIFIC.
+{F=Courier New;b=N;S=10;c=0}{9650}1650
+{F=Courier New;b=N;S=10;c=0}{10610}1650{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1651
+{F=Courier New;b=N;S=10;c=0}{1600}Compra comb.lubrif.p/industrializacao subseq.
+{F=Courier New;b=N;S=10;c=0}{9650}1651
+{F=Courier New;b=N;S=10;c=0}{10610}1651{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1652
+{F=Courier New;b=N;S=10;c=0}{1600}Compra comb.lubrif.para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1652
+{F=Courier New;b=N;S=10;c=0}{10610}1652{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1653
+{F=Courier New;b=N;S=10;c=0}{1600}Compra comb.lubrif.por consumidot ou us.final
+{F=Courier New;b=N;S=10;c=0}{9650}1653
+{F=Courier New;b=N;S=10;c=0}{10610}1653{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1658
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.comb.lubrif.para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1658
+{F=Courier New;b=N;S=10;c=0}{10610}1658{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1659
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.comb.lubrif.para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1659
+{F=Courier New;b=N;S=10;c=0}{10610}1659{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1660
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda de comb.lubrif.dest.industr.subseq.
+{F=Courier New;b=N;S=10;c=0}{9650}1660
+{F=Courier New;b=N;S=10;c=0}{10610}1660{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1661
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda comb.lubrif.dest.comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1661
+{F=Courier New;b=N;S=10;c=0}{10610}1661{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1662
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda comb.lubr.dest.consumid.ou us.final
+{F=Courier New;b=N;S=10;c=0}{9650}1662
+{F=Courier New;b=N;S=10;c=0}{10610}1662{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1663
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada combust.ou lubrific. para armazenagem
+{F=Courier New;b=N;S=10;c=0}{9650}1663
+{F=Courier New;b=N;S=10;c=0}{10610}1663{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1664
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.comb.lubrif.remetido para armazenagem 
+{F=Courier New;b=N;S=10;c=0}{9650}1664
+{F=Courier New;b=N;S=10;c=0}{10610}1664{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1900
+{F=Courier New;b=N;S=10;c=0}{1600}OUTRAS ENTR.MERC.OU AQUISICOES DE SERVICOS 
+{F=Courier New;b=N;S=10;c=0}{9650}1900
+{F=Courier New;b=N;S=10;c=0}{10610}1900{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1901
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada para industrializacao por encomenda 
+{F=Courier New;b=N;S=10;c=0}{9650}1901
+{F=Courier New;b=N;S=10;c=0}{10610}1901{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1902
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rem.p/industrializacao por encomenda
+{F=Courier New;b=N;S=10;c=0}{9650}1902
+{F=Courier New;b=N;S=10;c=0}{10610}1902{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1903
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.rem.p/industr.e nao aplic.ref.proc.
+{F=Courier New;b=N;S=10;c=0}{9650}1903
+{F=Courier New;b=N;S=10;c=0}{10610}1903{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1904
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.rem.p/venda fora do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1904
+{F=Courier New;b=N;S=10;c=0}{10610}1904{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1905
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.rec.p/dep.em dep.fech. ou arm.geral
+{F=Courier New;b=N;S=10;c=0}{9650}1905
+{F=Courier New;b=N;S=10;c=0}{10610}1905{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1906
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rem.p/dep.fechado ou armazem geral 
+{F=Courier New;b=N;S=10;c=0}{9650}1906
+{F=Courier New;b=N;S=10;c=0}{10610}1906{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1907
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.simb.merc.rem.p/dep.fech.ou arm.geral 
+{F=Courier New;b=N;S=10;c=0}{9650}1907
+{F=Courier New;b=N;S=10;c=0}{10610}1907{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1908
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.bem por conta de contrato de comodato 
+{F=Courier New;b=N;S=10;c=0}{9650}1908
+{F=Courier New;b=N;S=10;c=0}{10610}1908{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1909
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.bem remetido por conta contrato comodato 
+{F=Courier New;b=N;S=10;c=0}{9650}1909
+{F=Courier New;b=N;S=10;c=0}{10610}1909{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1910
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada de bonificacao, doacao ou brinde 
+{F=Courier New;b=N;S=10;c=0}{9650}1910
+{F=Courier New;b=N;S=10;c=0}{10610}1910{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1911
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada de amostra gratis 
+{F=Courier New;b=N;S=10;c=0}{9650}1911
+{F=Courier New;b=N;S=10;c=0}{10610}1911{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1912
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.ou bem recebido para demonstracao 
+{F=Courier New;b=N;S=10;c=0}{9650}1912
+{F=Courier New;b=N;S=10;c=0}{10610}1912{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1913
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.ou bem remetido para demonstracao 
+{F=Courier New;b=N;S=10;c=0}{9650}1913
+{F=Courier New;b=N;S=10;c=0}{10610}1913{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1914
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.ou bem remetido p/exposicao ou feira
+{F=Courier New;b=N;S=10;c=0}{9650}1914
+{F=Courier New;b=N;S=10;c=0}{10610}1914{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1915
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.ou bem receb. p/ conserto ou reparo
+{F=Courier New;b=N;S=10;c=0}{9650}1915
+{F=Courier New;b=N;S=10;c=0}{10610}1915{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1916
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.ou bem remetido p/conserto ou reparo
+{F=Courier New;b=N;S=10;c=0}{9650}1916
+{F=Courier New;b=N;S=10;c=0}{10610}1916{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1917
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.receb.consig.merc. ou industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1917
+{F=Courier New;b=N;S=10;c=0}{10610}1917{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1918
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.rem.consig.mercantil ou industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1918
+{F=Courier New;b=N;S=10;c=0}{10610}1918{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1919
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.simb.merc.vend.ut.pr.ind.rem.ant.consig.
+{F=Courier New;b=N;S=10;c=0}{9650}1919
+{F=Courier New;b=N;S=10;c=0}{10610}1919{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1920
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada de vasilhame ou sacaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1920
+{F=Courier New;b=N;S=10;c=0}{10610}1920{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1921
+{F=Courier New;b=N;S=10;c=0}{1600}Retorno de vasilhame ou sacaria
+{F=Courier New;b=N;S=10;c=0}{9650}1921
+{F=Courier New;b=N;S=10;c=0}{10610}1921{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1922
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.tit.simples fat.dec.compra rec.fut.
+{F=Courier New;b=N;S=10;c=0}{9650}1922
+{F=Courier New;b=N;S=10;c=0}{10610}1922{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1923
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.rec.vendedor remet,em venda a ordem
+{F=Courier New;b=N;S=10;c=0}{9650}1923
+{F=Courier New;b=N;S=10;c=0}{10610}1923{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1924
+{F=Courier New;b=N;S=10;c=0}{1600}Ent.p/ind.cta ord.adq.merc.qdo n.tr.est.adq.
+{F=Courier New;b=N;S=10;c=0}{9650}1924
+{F=Courier New;b=N;S=10;c=0}{10610}1924{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1925
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rem.ind.cta.ord.adq.merc.nao tr.est.
+{F=Courier New;b=N;S=10;c=0}{9650}1925
+{F=Courier New;b=N;S=10;c=0}{10610}1925{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1926
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.tit.reclas.merc.dec.form.kit/desagr
+{F=Courier New;b=N;S=10;c=0}{9650}1926
+{F=Courier New;b=N;S=10;c=0}{10610}1926{\n}
+{F=Courier New;b=N;S=10;c=0}{810}1949
+{F=Courier New;b=N;S=10;c=0}{1600}Outra entrada merc.ou prest.serv.nao especif.
+{F=Courier New;b=N;S=10;c=0}{9650}1949
+{F=Courier New;b=N;S=10;c=0}{10610}1949{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2100
+{F=Courier New;b=N;S=10;c=0}{1600}COMPRA P/INDUSTR, COMERC. OU PREST.DE SERVICO
+{F=Courier New;b=N;S=10;c=0}{9650}1100
+{F=Courier New;b=N;S=10;c=0}{10610}1100{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2101
+{F=Courier New;b=N;S=10;c=0}{1600}Compra para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1101{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2102
+{F=Courier New;b=N;S=10;c=0}{1600}Compra para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1102
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2111
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/industrializ,merc.rec.ant.consig.ind
+{F=Courier New;b=N;S=10;c=0}{9650}1111
+{F=Courier New;b=N;S=10;c=0}{10610}1111{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2113
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/comercializ.,merc.rec.ant.consig.com
+{F=Courier New;b=N;S=10;c=0}{9650}1113
+{F=Courier New;b=N;S=10;c=0}{10610}1113{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2116
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/industrializ orig.enc.p/receb.futuro
+{F=Courier New;b=N;S=10;c=0}{9650}1116
+{F=Courier New;b=N;S=10;c=0}{10610}1116{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2117
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/comercializ.orig.enc.p/rec.futuro 
+{F=Courier New;b=N;S=10;c=0}{9650}1117
+{F=Courier New;b=N;S=10;c=0}{10610}1117{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2118
+{F=Courier New;b=N;S=10;c=0}{1600}Compra mer.p/comerc.pelo adq.orig.venda ordem
+{F=Courier New;b=N;S=10;c=0}{9650}1118
+{F=Courier New;b=N;S=10;c=0}{10610}1118{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2120
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/ind.em venda ordem,ja rec.vend.remet
+{F=Courier New;b=N;S=10;c=0}{9650}1120
+{F=Courier New;b=N;S=10;c=0}{10610}1120{\n}
+{\np}
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}ERRO{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}17/02/2013 22:59{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE CFOPs - {TAB=150}{c=8}01.03.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}ERRO{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}00ERRO{F=Courier New;U=n;S=10}{TAB=100}{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}ERRO{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}ERRO{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1530} *-----------------DESCRIÇÃO DO CÓDIGO FISCAL DE OPERAÇÃO-----------------*
+{F=Courier New;b=Y;S=08;c=0}{9300} *-C. IND-*
+{F=Courier New;b=Y;S=08;c=0}{10310} *-C. COM-*{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2121
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/comerc.venda ordem,ja rec.vend.remet
+{F=Courier New;b=N;S=10;c=0}{9650}1121
+{F=Courier New;b=N;S=10;c=0}{10610}1121{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2122
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/ind.merc.rem.p/forn.ind.s/trans.est.
+{F=Courier New;b=N;S=10;c=0}{9650}1122
+{F=Courier New;b=N;S=10;c=0}{10610}1122{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2124
+{F=Courier New;b=N;S=10;c=0}{1600}Industrializacao efetuada por outra empresa 
+{F=Courier New;b=N;S=10;c=0}{9650}1124
+{F=Courier New;b=N;S=10;c=0}{10610}1124{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2125
+{F=Courier New;b=N;S=10;c=0}{1600}Industrializacao efetuada por outra empresa
+{F=Courier New;b=N;S=10;c=0}{9650}1125
+{F=Courier New;b=N;S=10;c=0}{10610}1125{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2126
+{F=Courier New;b=N;S=10;c=0}{1600}Compra para utilizacao prestacao de servico 
+{F=Courier New;b=N;S=10;c=0}{9650}1126
+{F=Courier New;b=N;S=10;c=0}{10610}1126{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2150
+{F=Courier New;b=N;S=10;c=0}{1600}TRANSF.P/IND., COMERC.OU PRESTACAO DE SERVICO
+{F=Courier New;b=N;S=10;c=0}{9650}1150
+{F=Courier New;b=N;S=10;c=0}{10610}1150{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2151
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1151
+{F=Courier New;b=N;S=10;c=0}{10610}1151{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2152
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1152
+{F=Courier New;b=N;S=10;c=0}{10610}1152{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2153
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.energia eletrica para distribuicao 
+{F=Courier New;b=N;S=10;c=0}{9650}1153
+{F=Courier New;b=N;S=10;c=0}{10610}1153{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2154
+{F=Courier New;b=N;S=10;c=0}{1600}Transfe.para utilizacao na prest. de servico 
+{F=Courier New;b=N;S=10;c=0}{9650}1154
+{F=Courier New;b=N;S=10;c=0}{10610}1154{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2200
+{F=Courier New;b=N;S=10;c=0}{1600}DEV.VENDAS PROD.PROP,DE TERC.OU ANUL.VALORES 
+{F=Courier New;b=N;S=10;c=0}{9650}1200
+{F=Courier New;b=N;S=10;c=0}{10610}1200{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2201
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda de producao do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1201{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2202
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda mercadoria adq.ou receb.terceiros 
+{F=Courier New;b=N;S=10;c=0}{9650}1202
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2203
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda prod.estab, dest.Zona Franca Manaus
+{F=Courier New;b=N;S=10;c=0}{9650}1203
+{F=Courier New;b=N;S=10;c=0}{10610}1203{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2204
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.vda merc.adq.rec.terc.dest.Zona Fr.Manaus
+{F=Courier New;b=N;S=10;c=0}{9650}1204
+{F=Courier New;b=N;S=10;c=0}{10610}1204{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2205
+{F=Courier New;b=N;S=10;c=0}{1600}Anul.vr rel.prestacao servico de comunicacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1205
+{F=Courier New;b=N;S=10;c=0}{10610}1205{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2206
+{F=Courier New;b=N;S=10;c=0}{1600}Anul.vr rel.prestacao servico de transporte 
+{F=Courier New;b=N;S=10;c=0}{9650}1206
+{F=Courier New;b=N;S=10;c=0}{10610}1206{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2207
+{F=Courier New;b=N;S=10;c=0}{1600}Anul.vr rel.a venda de energia eletrica 
+{F=Courier New;b=N;S=10;c=0}{9650}1207
+{F=Courier New;b=N;S=10;c=0}{10610}1207{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2208
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.producao estab.rem.em transferencia 
+{F=Courier New;b=N;S=10;c=0}{9650}1208
+{F=Courier New;b=N;S=10;c=0}{10610}1208{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2209
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.adq.rec.terc.remet. em transferencia
+{F=Courier New;b=N;S=10;c=0}{9650}1209
+{F=Courier New;b=N;S=10;c=0}{10610}1209{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2250
+{F=Courier New;b=N;S=10;c=0}{1600}COMPRAS DE ENERGIA ELETRICA 
+{F=Courier New;b=N;S=10;c=0}{9650}1250
+{F=Courier New;b=N;S=10;c=0}{10610}1250{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2251
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de energia eletrica p/distr.ou comerc.
+{F=Courier New;b=N;S=10;c=0}{9650}1251
+{F=Courier New;b=N;S=10;c=0}{10610}1251{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2252
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de energia eletrica p/estab.industrial
+{F=Courier New;b=N;S=10;c=0}{9650}1252
+{F=Courier New;b=N;S=10;c=0}{10610}1252{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2253
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de energia eletrica p/estab.comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1253
+{F=Courier New;b=N;S=10;c=0}{10610}1253{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2254
+{F=Courier New;b=N;S=10;c=0}{1600}Compra energ.eletr.p/estab.prest.serv.transp.
+{F=Courier New;b=N;S=10;c=0}{9650}1254
+{F=Courier New;b=N;S=10;c=0}{10610}1254{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2255
+{F=Courier New;b=N;S=10;c=0}{1600}Compra energ.eletr.p/estab.prest.serv.comunic
+{F=Courier New;b=N;S=10;c=0}{9650}1255
+{F=Courier New;b=N;S=10;c=0}{10610}1255{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2256
+{F=Courier New;b=N;S=10;c=0}{1600}Compra energ.eletr.p/estab.de produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1256
+{F=Courier New;b=N;S=10;c=0}{10610}1256{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2257
+{F=Courier New;b=N;S=10;c=0}{1600}Compra en.eletr.p/cons.por demanda contratada
+{F=Courier New;b=N;S=10;c=0}{9650}1257
+{F=Courier New;b=N;S=10;c=0}{10610}1257{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2300
+{F=Courier New;b=N;S=10;c=0}{1600}AQUISICOES DE SERVICOS DE COMUNICACAO 
+{F=Courier New;b=N;S=10;c=0}{9650}1300
+{F=Courier New;b=N;S=10;c=0}{10610}1300{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2301
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.p/exec.servico mesma natur
+{F=Courier New;b=N;S=10;c=0}{9650}1301
+{F=Courier New;b=N;S=10;c=0}{10610}1301{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2302
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.por estabelec.industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1302
+{F=Courier New;b=N;S=10;c=0}{10610}1302{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2303
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.por estabelec.comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1303
+{F=Courier New;b=N;S=10;c=0}{10610}1303{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2304
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.p/estab.prest.serv.transp.
+{F=Courier New;b=N;S=10;c=0}{9650}1304
+{F=Courier New;b=N;S=10;c=0}{10610}1304{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2305
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.p/estab.ger.dist.en.eletr.
+{F=Courier New;b=N;S=10;c=0}{9650}1305
+{F=Courier New;b=N;S=10;c=0}{10610}1305{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2306
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.comunic.p/estab. de produtor rural
+{F=Courier New;b=N;S=10;c=0}{9650}1306
+{F=Courier New;b=N;S=10;c=0}{10610}1306{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2350
+{F=Courier New;b=N;S=10;c=0}{1600}AQUISICOES DE SERVICOS DE TRANSPORTE 
+{F=Courier New;b=N;S=10;c=0}{9650}1350
+{F=Courier New;b=N;S=10;c=0}{10610}1350{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2351
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transporte p/exec.serv.mesma natur
+{F=Courier New;b=N;S=10;c=0}{9650}1351
+{F=Courier New;b=N;S=10;c=0}{10610}1351{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2352
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transporte p/estabelec.industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1352
+{F=Courier New;b=N;S=10;c=0}{10610}1352{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2353
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transporte p/estabelec.comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1353
+{F=Courier New;b=N;S=10;c=0}{10610}1353{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2354
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transp.p/estab.prest.serv.comunic.
+{F=Courier New;b=N;S=10;c=0}{9650}1354
+{F=Courier New;b=N;S=10;c=0}{10610}1354{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2355
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transp.p/estab.ger.dist.en.eletr. 
+{F=Courier New;b=N;S=10;c=0}{9650}1355
+{F=Courier New;b=N;S=10;c=0}{10610}1355{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2356
+{F=Courier New;b=N;S=10;c=0}{1600}Aquis.serv.transp.p/estab.de produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1356
+{F=Courier New;b=N;S=10;c=0}{10610}1356{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2400
+{F=Courier New;b=N;S=10;c=0}{1600}ENTRADAS MERC.SUJ. REGIME SUBST.TRIBUTARIA 
+{F=Courier New;b=N;S=10;c=0}{9650}1400
+{F=Courier New;b=N;S=10;c=0}{10610}1400{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2401
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/industr.op.suj.reg.subst.tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1401
+{F=Courier New;b=N;S=10;c=0}{10610}1401{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2403
+{F=Courier New;b=N;S=10;c=0}{1600}Compra p/comerc.op.suj.reg.subst.tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1403
+{F=Courier New;b=N;S=10;c=0}{10610}1403{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2406
+{F=Courier New;b=N;S=10;c=0}{1600}Compra bem ativo imobiliz.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1406
+{F=Courier New;b=N;S=10;c=0}{10610}1406{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2407
+{F=Courier New;b=N;S=10;c=0}{1600}Compra merc.p/uso consumo suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1407
+{F=Courier New;b=N;S=10;c=0}{10610}1407{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2408
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.p/industrializ.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1408
+{F=Courier New;b=N;S=10;c=0}{10610}1408{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2409
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.p/comerc.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1409
+{F=Courier New;b=N;S=10;c=0}{10610}1409{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2410
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda prod.estab.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1410
+{F=Courier New;b=N;S=10;c=0}{10610}1410{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2411
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda merc.adq.rec.terc.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1411
+{F=Courier New;b=N;S=10;c=0}{10610}1411{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2414
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.prod.est.rem.p/vda fora est.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1414
+{F=Courier New;b=N;S=10;c=0}{10610}1414{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2415
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.m.adq.rec.terc.rem.vda fora est.op.suj.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1415
+{F=Courier New;b=N;S=10;c=0}{10610}1415{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2500
+{F=Courier New;b=N;S=10;c=0}{1600}ENTR.MERC.REM.C/FIM ESP.EXPORT.E EVENT.DEV.
+{F=Courier New;b=N;S=10;c=0}{9650}1500
+{F=Courier New;b=N;S=10;c=0}{10610}1500{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2501
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.rec.c/fim especifico de exportacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1501
+{F=Courier New;b=N;S=10;c=0}{10610}1501{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2503
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.dec.dev.prod.rem.fim esp.export.prod.est
+{F=Courier New;b=N;S=10;c=0}{9650}1503
+{F=Courier New;b=N;S=10;c=0}{10610}1503{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2504
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.dec.dev.merc.rem.fim esp.exp.adq.rec.ter
+{F=Courier New;b=N;S=10;c=0}{9650}1504
+{F=Courier New;b=N;S=10;c=0}{10610}1504{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2550
+{F=Courier New;b=N;S=10;c=0}{1600}OP.COM BENS ATIVO IMOBILIZ.E MAT.P/USO / CONS
+{F=Courier New;b=N;S=10;c=0}{9650}1550
+{F=Courier New;b=N;S=10;c=0}{10610}1550{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2551
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de bem para o ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1551
+{F=Courier New;b=N;S=10;c=0}{10610}1551{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2552
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de bem do ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1552
+{F=Courier New;b=N;S=10;c=0}{10610}1552{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2553
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.de venda de bem do ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1553
+{F=Courier New;b=N;S=10;c=0}{10610}1553{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2554
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.bem ativo imobiliz.rem.uso fora estab.
+{F=Courier New;b=N;S=10;c=0}{9650}1554
+{F=Courier New;b=N;S=10;c=0}{10610}1554{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2555
+{F=Courier New;b=N;S=10;c=0}{1600}Ent.bem ativo imobiliz.terc.rem.p/uso estab.
+{F=Courier New;b=N;S=10;c=0}{9650}1555
+{F=Courier New;b=N;S=10;c=0}{10610}1555{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2556
+{F=Courier New;b=N;S=10;c=0}{1600}Compra de material para uso ou consumo 
+{F=Courier New;b=N;S=10;c=0}{9650}1556
+{F=Courier New;b=N;S=10;c=0}{10610}1556{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2557
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de material para uso ou consumo
+{F=Courier New;b=N;S=10;c=0}{9650}1557
+{F=Courier New;b=N;S=10;c=0}{10610}1557{\n}
+{\np}
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}ERRO{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}17/02/2013 22:59{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE CFOPs - {TAB=150}{c=8}01.03.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}ERRO{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}00ERRO{F=Courier New;U=n;S=10}{TAB=100}{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}ERRO{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}ERRO{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1530} *-----------------DESCRIÇÃO DO CÓDIGO FISCAL DE OPERAÇÃO-----------------*
+{F=Courier New;b=Y;S=08;c=0}{9300} *-C. IND-*
+{F=Courier New;b=Y;S=08;c=0}{10310} *-C. COM-*{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2600
+{F=Courier New;b=N;S=10;c=0}{1600}CREDITOS E RESSARCIMENTOS DE ICMS 
+{F=Courier New;b=N;S=10;c=0}{9650}1600
+{F=Courier New;b=N;S=10;c=0}{10610}1600{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2603
+{F=Courier New;b=N;S=10;c=0}{1600}Ressarc.ICMS ret.por substituicao tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1603
+{F=Courier New;b=N;S=10;c=0}{10610}1603{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2650
+{F=Courier New;b=N;S=10;c=0}{1600}ENTR.COMB,DERIV.OU NAO PETROLEO, E LUBRIFIC.
+{F=Courier New;b=N;S=10;c=0}{9650}1650
+{F=Courier New;b=N;S=10;c=0}{10610}1650{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2651
+{F=Courier New;b=N;S=10;c=0}{1600}Compra comb.lubrif.p/industrializacao subseq.
+{F=Courier New;b=N;S=10;c=0}{9650}1651
+{F=Courier New;b=N;S=10;c=0}{10610}1651{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2652
+{F=Courier New;b=N;S=10;c=0}{1600}Compra comb.lubrif.para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1652
+{F=Courier New;b=N;S=10;c=0}{10610}1652{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2653
+{F=Courier New;b=N;S=10;c=0}{1600}Compra comb.lubrif.por consumidot ou us.final
+{F=Courier New;b=N;S=10;c=0}{9650}1653
+{F=Courier New;b=N;S=10;c=0}{10610}1653{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2658
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.comb.lubrif.para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1658
+{F=Courier New;b=N;S=10;c=0}{10610}1658{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2659
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.comb.lubrif.para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1659
+{F=Courier New;b=N;S=10;c=0}{10610}1659{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2660
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda de comb.lubrif.dest.industr.subseq.
+{F=Courier New;b=N;S=10;c=0}{9650}1660
+{F=Courier New;b=N;S=10;c=0}{10610}1660{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2661
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda comb.lubrif.dest.comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1661
+{F=Courier New;b=N;S=10;c=0}{10610}1661{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2662
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.venda comb.lubr.dest.consumid.ou us.final
+{F=Courier New;b=N;S=10;c=0}{9650}1662
+{F=Courier New;b=N;S=10;c=0}{10610}1662{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2663
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada combust.ou lubrific. para armazenagem
+{F=Courier New;b=N;S=10;c=0}{9650}1663
+{F=Courier New;b=N;S=10;c=0}{10610}1663{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2664
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.comb.lubrif.remetido para armazenagem 
+{F=Courier New;b=N;S=10;c=0}{9650}1664
+{F=Courier New;b=N;S=10;c=0}{10610}1664{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2900
+{F=Courier New;b=N;S=10;c=0}{1600}OUTRAS ENTR.MERC.OU AQUISICOES DE SERVICOS 
+{F=Courier New;b=N;S=10;c=0}{9650}1900
+{F=Courier New;b=N;S=10;c=0}{10610}1900{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2901
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada para industrializacao por encomenda 
+{F=Courier New;b=N;S=10;c=0}{9650}1901
+{F=Courier New;b=N;S=10;c=0}{10610}1901{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2902
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rem.p/industrializacao por encomenda
+{F=Courier New;b=N;S=10;c=0}{9650}1902
+{F=Courier New;b=N;S=10;c=0}{10610}1902{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2903
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.rem.p/industr.e nao aplic.ref.proc.
+{F=Courier New;b=N;S=10;c=0}{9650}1903
+{F=Courier New;b=N;S=10;c=0}{10610}1903{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2904
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.rem.p/venda fora do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1904
+{F=Courier New;b=N;S=10;c=0}{10610}1904{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2905
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.rec.p/dep.em dep.fech. ou arm.geral
+{F=Courier New;b=N;S=10;c=0}{9650}1905
+{F=Courier New;b=N;S=10;c=0}{10610}1905{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2906
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rem.p/dep.fechado ou armazem geral 
+{F=Courier New;b=N;S=10;c=0}{9650}1906
+{F=Courier New;b=N;S=10;c=0}{10610}1906{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2907
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.simb.merc.rem.p/dep.fech.ou arm.geral 
+{F=Courier New;b=N;S=10;c=0}{9650}1907
+{F=Courier New;b=N;S=10;c=0}{10610}1907{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2908
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.bem por conta de contrato de comodato 
+{F=Courier New;b=N;S=10;c=0}{9650}1908
+{F=Courier New;b=N;S=10;c=0}{10610}1908{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2909
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.bem remetido por conta contrato comodato 
+{F=Courier New;b=N;S=10;c=0}{9650}1909
+{F=Courier New;b=N;S=10;c=0}{10610}1909{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2910
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada de bonificacao, doacao ou brinde 
+{F=Courier New;b=N;S=10;c=0}{9650}1910
+{F=Courier New;b=N;S=10;c=0}{10610}1910{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2911
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada de amostra gratis 
+{F=Courier New;b=N;S=10;c=0}{9650}1911
+{F=Courier New;b=N;S=10;c=0}{10610}1911{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2912
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.ou bem recebido para demonstracao 
+{F=Courier New;b=N;S=10;c=0}{9650}1912
+{F=Courier New;b=N;S=10;c=0}{10610}1912{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2913
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.ou bem remetido para demonstracao 
+{F=Courier New;b=N;S=10;c=0}{9650}1913
+{F=Courier New;b=N;S=10;c=0}{10610}1913{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2914
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.ou bem remetido p/exposicao ou feira
+{F=Courier New;b=N;S=10;c=0}{9650}1914
+{F=Courier New;b=N;S=10;c=0}{10610}1914{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2915
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.ou bem receb. p/ conserto ou reparo
+{F=Courier New;b=N;S=10;c=0}{9650}1915
+{F=Courier New;b=N;S=10;c=0}{10610}1915{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2916
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.ou bem remetido p/conserto ou reparo
+{F=Courier New;b=N;S=10;c=0}{9650}1916
+{F=Courier New;b=N;S=10;c=0}{10610}1916{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2917
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.receb.consig.merc. ou industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1917
+{F=Courier New;b=N;S=10;c=0}{10610}1917{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2918
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.rem.consig.mercantil ou industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1918
+{F=Courier New;b=N;S=10;c=0}{10610}1918{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2919
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.simb.merc.vend.ut.pr.ind.rem.ant.consig.
+{F=Courier New;b=N;S=10;c=0}{9650}1919
+{F=Courier New;b=N;S=10;c=0}{10610}1919{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2920
+{F=Courier New;b=N;S=10;c=0}{1600}Entrada de vasilhame ou sacaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1920
+{F=Courier New;b=N;S=10;c=0}{10610}1920{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2921
+{F=Courier New;b=N;S=10;c=0}{1600}Retorno de vasilhame ou sacaria
+{F=Courier New;b=N;S=10;c=0}{9650}1921
+{F=Courier New;b=N;S=10;c=0}{10610}1921{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2922
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.tit.simples fat.dec.compra rec.fut.
+{F=Courier New;b=N;S=10;c=0}{9650}1922
+{F=Courier New;b=N;S=10;c=0}{10610}1922{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2923
+{F=Courier New;b=N;S=10;c=0}{1600}Entr.merc.rec.vendedor remet,em venda a ordem
+{F=Courier New;b=N;S=10;c=0}{9650}1923
+{F=Courier New;b=N;S=10;c=0}{10610}1923{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2924
+{F=Courier New;b=N;S=10;c=0}{1600}Ent.p/ind.cta ord.adq.merc.qdo n.tr.est.adq.
+{F=Courier New;b=N;S=10;c=0}{9650}1924
+{F=Courier New;b=N;S=10;c=0}{10610}1924{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2925
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rem.ind.cta.ord.adq.merc.nao tr.est.
+{F=Courier New;b=N;S=10;c=0}{9650}1925
+{F=Courier New;b=N;S=10;c=0}{10610}1925{\n}
+{F=Courier New;b=N;S=10;c=0}{810}2949
+{F=Courier New;b=N;S=10;c=0}{1600}Outra entrada merc.ou prest.serv.nao especif.
+{F=Courier New;b=N;S=10;c=0}{9650}1949
+{F=Courier New;b=N;S=10;c=0}{10610}1949{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5100
+{F=Courier New;b=N;S=10;c=0}{1600}VENDAS DE PRODUCAO PROPRIA OU DE TERCEIROS 
+{F=Courier New;b=N;S=10;c=0}{9650}1100
+{F=Courier New;b=N;S=10;c=0}{10610}1100{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5101
+{F=Courier New;b=N;S=10;c=0}{1600}Venda de producao do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5102
+{F=Courier New;b=N;S=10;c=0}{1600}Venda mercadoria adq.ou recebida de terceiros
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5103
+{F=Courier New;b=N;S=10;c=0}{1600}Venda producao do estab.,efetuada fora estab.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5104
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.ou receb.terc.,efet.fora estab
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5105
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.que nao deva por ele transit
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5106
+{F=Courier New;b=N;S=10;c=0}{1600}Venda m.adq.rec.terc,que nao deva p/ele trans
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5109
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab,dest.Zona Fr.Manaus/ar.L.Com
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5110
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc,dest.Zona Fr.Manaus
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5111
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.rem.ant.consig.industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5112
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.rem.ant.consig.ind.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5113
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.rem.ant.consig.mercantil 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5114
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.rem.ant.consig.merc.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5115
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.rec.ant.consig.merc.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5116
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.orig.encom.p/entrega futura 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5117
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.orig.enc.p/ent.futura
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5118
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.ent.dest.p/cta.ord.adq.orig.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5119
+{F=Courier New;b=N;S=10;c=0}{1600}Venda m.adq.rec.terc.ent.dest.cta.ord.adq.or.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5120
+{F=Courier New;b=N;S=10;c=0}{1600}Venda m.adq.rec.terc.ent.dest.p/vendedor rem.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5122
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.rem.p/ind.p/cta.ord.adquir.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5123
+{F=Courier New;b=N;S=10;c=0}{1600}Venda m.adq.rec.terc.rem.p/ind.p/cta.ord.adq.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5124
+{F=Courier New;b=N;S=10;c=0}{1600}Industrializacao efetuada para outra empresa 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5125
+{F=Courier New;b=N;S=10;c=0}{1600}Industrializacao efetuada para outra empresa 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5150
+{F=Courier New;b=N;S=10;c=0}{1600}TRANSFERENCIAS DE PRODUCAO PROPRIA OU DE TERC
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5151
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de producao do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{\np}
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}ERRO{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}17/02/2013 22:59{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE CFOPs - {TAB=150}{c=8}01.03.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}ERRO{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}00ERRO{F=Courier New;U=n;S=10}{TAB=100}{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}ERRO{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}ERRO{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1530} *-----------------DESCRIÇÃO DO CÓDIGO FISCAL DE OPERAÇÃO-----------------*
+{F=Courier New;b=Y;S=08;c=0}{9300} *-C. IND-*
+{F=Courier New;b=Y;S=08;c=0}{10310} *-C. COM-*{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5152
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia merc.adq.ou rec.terceiros 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5153
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de energia eletrica 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5155
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.prod.est,que nao deva p/ele transitar 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5156
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.m.adq.rec.terc,que n.deva p/ele trans.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5200
+{F=Courier New;b=N;S=10;c=0}{1600}DEV.COMPRAS P/INDUSTR,COMERC.OU ANULACOES VAL
+{F=Courier New;b=N;S=10;c=0}{9650}1200
+{F=Courier New;b=N;S=10;c=0}{10610}1200{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5201
+{F=Courier New;b=N;S=10;c=0}{1600}Devolucao de compra para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5202
+{F=Courier New;b=N;S=10;c=0}{1600}Devolucao de compra para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5205
+{F=Courier New;b=N;S=10;c=0}{1600}Anulacao valor rel.aquis.serv.comunicacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5206
+{F=Courier New;b=N;S=10;c=0}{1600}Anulacao valor rel.aquis.serv.transporte 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5207
+{F=Courier New;b=N;S=10;c=0}{1600}Anulacao valor rel.compra energia eletrica 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5208
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.rec.transf.para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5209
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.rec.transf.para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5210
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra p/utiliz.prestacao de servico 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5250
+{F=Courier New;b=N;S=10;c=0}{1600}VENDAS DE ENERGIA ELETRICA 
+{F=Courier New;b=N;S=10;c=0}{9650}1250
+{F=Courier New;b=N;S=10;c=0}{10610}1250{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5251
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/distrib.ou comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1251
+{F=Courier New;b=N;S=10;c=0}{10610}1251{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5252
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estabelecimento industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1252
+{F=Courier New;b=N;S=10;c=0}{10610}1252{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5253
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estabelecimento comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1253
+{F=Courier New;b=N;S=10;c=0}{10610}1253{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5254
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estab.prestador serv.transp.
+{F=Courier New;b=N;S=10;c=0}{9650}1254
+{F=Courier New;b=N;S=10;c=0}{10610}1254{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5255
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estab.prestador serv.comunic
+{F=Courier New;b=N;S=10;c=0}{9650}1255
+{F=Courier New;b=N;S=10;c=0}{10610}1255{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5256
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estab.de produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1256
+{F=Courier New;b=N;S=10;c=0}{10610}1256{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5257
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/consumo p/demanda contratada
+{F=Courier New;b=N;S=10;c=0}{9650}1257
+{F=Courier New;b=N;S=10;c=0}{10610}1257{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5258
+{F=Courier New;b=N;S=10;c=0}{1600}Vendade energia eletrica a nao contribuinte 
+{F=Courier New;b=N;S=10;c=0}{9650}1258
+{F=Courier New;b=N;S=10;c=0}{10610}1258{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5300
+{F=Courier New;b=N;S=10;c=0}{1600}PRESTACOES DE SERVICOS DE COMUNICACAO 
+{F=Courier New;b=N;S=10;c=0}{9650}1300
+{F=Courier New;b=N;S=10;c=0}{10610}1300{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5301
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.p/exec.serv.mesma natureza
+{F=Courier New;b=N;S=10;c=0}{9650}1301
+{F=Courier New;b=N;S=10;c=0}{10610}1301{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5302
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.a estab. industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1302
+{F=Courier New;b=N;S=10;c=0}{10610}1302{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5303
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.a estab. comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1303
+{F=Courier New;b=N;S=10;c=0}{10610}1303{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5304
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.a estab.prest.serv.transp.
+{F=Courier New;b=N;S=10;c=0}{9650}1304
+{F=Courier New;b=N;S=10;c=0}{10610}1304{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5305
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.com.a estab.ger.ou dist de en.elet
+{F=Courier New;b=N;S=10;c=0}{9650}1305
+{F=Courier New;b=N;S=10;c=0}{10610}1305{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5306
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.a estab. produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1306
+{F=Courier New;b=N;S=10;c=0}{10610}1306{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5307
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.de comunicacao a nao contribuinte 
+{F=Courier New;b=N;S=10;c=0}{9650}1307
+{F=Courier New;b=N;S=10;c=0}{10610}1307{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5350
+{F=Courier New;b=N;S=10;c=0}{1600}PRESTACOES DE SERVICOS DE TRANSPORTE 
+{F=Courier New;b=N;S=10;c=0}{9650}1350
+{F=Courier New;b=N;S=10;c=0}{10610}1350{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5351
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.p/exec.serv. mesma natureza
+{F=Courier New;b=N;S=10;c=0}{9650}1351
+{F=Courier New;b=N;S=10;c=0}{10610}1351{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5352
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp. a estabelecimento industri
+{F=Courier New;b=N;S=10;c=0}{9650}1352
+{F=Courier New;b=N;S=10;c=0}{10610}1352{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5353
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp. a estabelecimento comercia
+{F=Courier New;b=N;S=10;c=0}{9650}1353
+{F=Courier New;b=N;S=10;c=0}{10610}1353{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5354
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.estab.prest.serv.comunic.
+{F=Courier New;b=N;S=10;c=0}{9650}1354
+{F=Courier New;b=N;S=10;c=0}{10610}1354{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5355
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.estab.ger.dist.en.eletrica 
+{F=Courier New;b=N;S=10;c=0}{9650}1355
+{F=Courier New;b=N;S=10;c=0}{10610}1355{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5356
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.estab. de produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1356
+{F=Courier New;b=N;S=10;c=0}{10610}1356{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5357
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp. a nao contribuinte 
+{F=Courier New;b=N;S=10;c=0}{9650}1357
+{F=Courier New;b=N;S=10;c=0}{10610}1357{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5400
+{F=Courier New;b=N;S=10;c=0}{1600}SAIDAS MERC.SUJEITAS AO REGIME DE SUBST.TRIB.
+{F=Courier New;b=N;S=10;c=0}{9650}1400
+{F=Courier New;b=N;S=10;c=0}{10610}1400{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5401
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.op.prod.suj.reg.subst.trib.
+{F=Courier New;b=N;S=10;c=0}{9650}1401
+{F=Courier New;b=N;S=10;c=0}{10610}1401{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5402
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.prod.suj.reg.subst.tribut.
+{F=Courier New;b=N;S=10;c=0}{9650}1402
+{F=Courier New;b=N;S=10;c=0}{10610}1402{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5403
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.op.suj.reg.subst.trib
+{F=Courier New;b=N;S=10;c=0}{9650}1403
+{F=Courier New;b=N;S=10;c=0}{10610}1403{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5405
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.op.suj.reg.subst.trib
+{F=Courier New;b=N;S=10;c=0}{9650}1405
+{F=Courier New;b=N;S=10;c=0}{10610}1405{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5408
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.prod.estab.op.suj.reg.subst.tributaria
+{F=Courier New;b=N;S=10;c=0}{9650}1408
+{F=Courier New;b=N;S=10;c=0}{10610}1408{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5409
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.merc.adq.rec.ter.op.suj.reg.subst.trib
+{F=Courier New;b=N;S=10;c=0}{9650}1409
+{F=Courier New;b=N;S=10;c=0}{10610}1409{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5410
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra p/ind.op.suj.reg.subst.tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1410
+{F=Courier New;b=N;S=10;c=0}{10610}1410{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5411
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra p/comerc.op.suj.reg.subst.tribut.
+{F=Courier New;b=N;S=10;c=0}{9650}1411
+{F=Courier New;b=N;S=10;c=0}{10610}1411{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5412
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.bem ativo imob.op.suj.reg.subst.tribut.
+{F=Courier New;b=N;S=10;c=0}{9650}1412
+{F=Courier New;b=N;S=10;c=0}{10610}1412{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5413
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.dest.uso/cons.op.suj.reg.subst.trib.
+{F=Courier New;b=N;S=10;c=0}{9650}1413
+{F=Courier New;b=N;S=10;c=0}{10610}1413{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5414
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.prod.estab.p/vda.fora estab.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1414
+{F=Courier New;b=N;S=10;c=0}{10610}1414{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5415
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.m.adq.rec.terc.p/vda fora estab.op.suj.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1415
+{F=Courier New;b=N;S=10;c=0}{10610}1415{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5450
+{F=Courier New;b=N;S=10;c=0}{1600}SISTEMAS DE INTEGRACAO 
+{F=Courier New;b=N;S=10;c=0}{9650}1450
+{F=Courier New;b=N;S=10;c=0}{10610}1450{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5451
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa de animal e insumo p/estab.produtor 
+{F=Courier New;b=N;S=10;c=0}{9650}1451
+{F=Courier New;b=N;S=10;c=0}{10610}1451{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5500
+{F=Courier New;b=N;S=10;c=0}{1600}REMESSAS C/FIM ESPECIF.EXPORT.E EVENTUAIS DEV
+{F=Courier New;b=N;S=10;c=0}{9650}1500
+{F=Courier New;b=N;S=10;c=0}{10610}1500{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5501
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.prod.estab.c/fim especifico de exportacao
+{F=Courier New;b=N;S=10;c=0}{9650}1501
+{F=Courier New;b=N;S=10;c=0}{10610}1501{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5502
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc.adq.rec.terc.c/fim espec. exportacao
+{F=Courier New;b=N;S=10;c=0}{9650}1502
+{F=Courier New;b=N;S=10;c=0}{10610}1502{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5503
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.rec.rec.c/fim espec. de exportacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1503
+{F=Courier New;b=N;S=10;c=0}{10610}1503{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5550
+{F=Courier New;b=N;S=10;c=0}{1600}OPER.C/BENS ATIVO IMOB.E MAT.P/USO OU CONSUMO
+{F=Courier New;b=N;S=10;c=0}{9650}1550
+{F=Courier New;b=N;S=10;c=0}{10610}1550{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5551
+{F=Courier New;b=N;S=10;c=0}{1600}Venda de bem do ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1551
+{F=Courier New;b=N;S=10;c=0}{10610}1551{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5552
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de bem do ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1552
+{F=Courier New;b=N;S=10;c=0}{10610}1552{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5553
+{F=Courier New;b=N;S=10;c=0}{1600}Devolucao compra bem para o ativo imobilizado
+{F=Courier New;b=N;S=10;c=0}{9650}1553
+{F=Courier New;b=N;S=10;c=0}{10610}1553{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5554
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.bem ativo imob.p/uso fora estabelecimento
+{F=Courier New;b=N;S=10;c=0}{9650}1554
+{F=Courier New;b=N;S=10;c=0}{10610}1554{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5555
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.bem ativo imob.de terc.rec.p/uso no estab
+{F=Courier New;b=N;S=10;c=0}{9650}1555
+{F=Courier New;b=N;S=10;c=0}{10610}1555{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5556
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra de material de uso ou consumo 
+{F=Courier New;b=N;S=10;c=0}{9650}1556
+{F=Courier New;b=N;S=10;c=0}{10610}1556{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5557
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de material de uso ou consumo 
+{F=Courier New;b=N;S=10;c=0}{9650}1557
+{F=Courier New;b=N;S=10;c=0}{10610}1557{\n}
+{\np}
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}ERRO{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}17/02/2013 22:59{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE CFOPs - {TAB=150}{c=8}01.03.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}ERRO{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}00ERRO{F=Courier New;U=n;S=10}{TAB=100}{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}ERRO{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}ERRO{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1530} *-----------------DESCRIÇÃO DO CÓDIGO FISCAL DE OPERAÇÃO-----------------*
+{F=Courier New;b=Y;S=08;c=0}{9300} *-C. IND-*
+{F=Courier New;b=Y;S=08;c=0}{10310} *-C. COM-*{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5600
+{F=Courier New;b=N;S=10;c=0}{1600}CREDITOS E RESSARCIMENTOS DE ICMS 
+{F=Courier New;b=N;S=10;c=0}{9650}1600
+{F=Courier New;b=N;S=10;c=0}{10610}1600{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5601
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de credito de ICMS acumulado 
+{F=Courier New;b=N;S=10;c=0}{9650}1601
+{F=Courier New;b=N;S=10;c=0}{10610}1601{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5602
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.saldo cr.ICMS p/outro estab.mesma emp.
+{F=Courier New;b=N;S=10;c=0}{9650}1602
+{F=Courier New;b=N;S=10;c=0}{10610}1602{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5603
+{F=Courier New;b=N;S=10;c=0}{1600}Ressarc.ICMS ret.por substituicao tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1603
+{F=Courier New;b=N;S=10;c=0}{10610}1603{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5650
+{F=Courier New;b=N;S=10;c=0}{1600}SAIDAS COMB, DERIV.OU NAO PETROLEO,E LUBRIF.
+{F=Courier New;b=N;S=10;c=0}{9650}1650
+{F=Courier New;b=N;S=10;c=0}{10610}1650{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5651
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.prod.estab.dest.ind.subseq.
+{F=Courier New;b=N;S=10;c=0}{9650}1651
+{F=Courier New;b=N;S=10;c=0}{10610}1651{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5652
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.prod.estab.dest.comercializ
+{F=Courier New;b=N;S=10;c=0}{9650}1652
+{F=Courier New;b=N;S=10;c=0}{10610}1652{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5653
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.prod.est.dest.cons.us.final
+{F=Courier New;b=N;S=10;c=0}{9650}1653
+{F=Courier New;b=N;S=10;c=0}{10610}1653{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5654
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.adq.rec.terc.dest.ind.subsq
+{F=Courier New;b=N;S=10;c=0}{9650}1654
+{F=Courier New;b=N;S=10;c=0}{10610}1654{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5655
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.adq.rec.terc.dest.a comerc.
+{F=Courier New;b=N;S=10;c=0}{9650}1655
+{F=Courier New;b=N;S=10;c=0}{10610}1655{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5656
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.adq.rec.terc.dest.a consum.
+{F=Courier New;b=N;S=10;c=0}{9650}1656
+{F=Courier New;b=N;S=10;c=0}{10610}1656{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5657
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.comb.lubr.adq.rec.terc.p/vda fora estab.
+{F=Courier New;b=N;S=10;c=0}{9650}1657
+{F=Courier New;b=N;S=10;c=0}{10610}1657{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5658
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.comb.lubr.producao do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1658
+{F=Courier New;b=N;S=10;c=0}{10610}1658{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5659
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.comb.lubr.adq.ou recebido de terceiro 
+{F=Courier New;b=N;S=10;c=0}{9650}1659
+{F=Courier New;b=N;S=10;c=0}{10610}1659{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5660
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra comb.lubr.adq.p/industr.subsequent
+{F=Courier New;b=N;S=10;c=0}{9650}1660
+{F=Courier New;b=N;S=10;c=0}{10610}1660{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5661
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra comb.lubr.adq.para comercializacao
+{F=Courier New;b=N;S=10;c=0}{9650}1661
+{F=Courier New;b=N;S=10;c=0}{10610}1661{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5662
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra comb.lubr.adq.p/consumid.ou us.fin
+{F=Courier New;b=N;S=10;c=0}{9650}1662
+{F=Courier New;b=N;S=10;c=0}{10610}1662{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5663
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.p/armazenagem de combust.ou lubrificante
+{F=Courier New;b=N;S=10;c=0}{9650}1663
+{F=Courier New;b=N;S=10;c=0}{10610}1663{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5664
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.comb.lubrif. recebido para armazenagem 
+{F=Courier New;b=N;S=10;c=0}{9650}1664
+{F=Courier New;b=N;S=10;c=0}{10610}1664{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5665
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.simb.comb.lubr.recebido para armazenagem 
+{F=Courier New;b=N;S=10;c=0}{9650}1665
+{F=Courier New;b=N;S=10;c=0}{10610}1665{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5666
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.conta ordem terc.comb.lubr.rec.p/armazen.
+{F=Courier New;b=N;S=10;c=0}{9650}1666
+{F=Courier New;b=N;S=10;c=0}{10610}1666{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5900
+{F=Courier New;b=N;S=10;c=0}{1600}OUTRAS SAIDAS DE MERC.OU PREST.DE SERVICOS 
+{F=Courier New;b=N;S=10;c=0}{9650}1900
+{F=Courier New;b=N;S=10;c=0}{10610}1900{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5901
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa para industrializacao por encomenda 
+{F=Courier New;b=N;S=10;c=0}{9650}1901
+{F=Courier New;b=N;S=10;c=0}{10610}1901{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5902
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.utiliz.na industrializ.por encomenda
+{F=Courier New;b=N;S=10;c=0}{9650}1902
+{F=Courier New;b=N;S=10;c=0}{10610}1902{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5903
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rec.p/industrializ.e nao aplicada
+{F=Courier New;b=N;S=10;c=0}{9650}1903
+{F=Courier New;b=N;S=10;c=0}{10610}1903{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5904
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa para venda fora do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1904
+{F=Courier New;b=N;S=10;c=0}{10610}1904{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5905
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa p/ deposito fechado ou armazem geral 
+{F=Courier New;b=N;S=10;c=0}{9650}1905
+{F=Courier New;b=N;S=10;c=0}{10610}1905{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5906
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.de merc.depos.em dep.fechado ou arm.geral
+{F=Courier New;b=N;S=10;c=0}{9650}1906
+{F=Courier New;b=N;S=10;c=0}{10610}1906{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5907
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.simb.merc.depos.em dep.fech. ou arm.geral
+{F=Courier New;b=N;S=10;c=0}{9650}1907
+{F=Courier New;b=N;S=10;c=0}{10610}1907{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5908
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.de bem por conta de contrato de comodato 
+{F=Courier New;b=N;S=10;c=0}{9650}1908
+{F=Courier New;b=N;S=10;c=0}{10610}1908{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5909
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.bem recebido por conta de contr. comodato
+{F=Courier New;b=N;S=10;c=0}{9650}1909
+{F=Courier New;b=N;S=10;c=0}{10610}1909{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5910
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa em bonificacao, doacao ou brinde 
+{F=Courier New;b=N;S=10;c=0}{9650}1910
+{F=Courier New;b=N;S=10;c=0}{10610}1910{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5911
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa de amostra gratis 
+{F=Courier New;b=N;S=10;c=0}{9650}1911
+{F=Courier New;b=N;S=10;c=0}{10610}1911{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5912
+{F=Courier New;b=N;S=10;c=0}{1600}Rem. de mercadoria ou bem para demonstracao 
+{F=Courier New;b=N;S=10;c=0}{9650}1912
+{F=Courier New;b=N;S=10;c=0}{10610}1912{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5913
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc. ou bem recebido para demonstracao 
+{F=Courier New;b=N;S=10;c=0}{9650}1913
+{F=Courier New;b=N;S=10;c=0}{10610}1913{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5914
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc. ou bem para exposicao ou feira 
+{F=Courier New;b=N;S=10;c=0}{9650}1914
+{F=Courier New;b=N;S=10;c=0}{10610}1914{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5915
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc. ou bem para conserto ou reparo 
+{F=Courier New;b=N;S=10;c=0}{9650}1915
+{F=Courier New;b=N;S=10;c=0}{10610}1915{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5916
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.ou bem recebido p/conserto ou reparo
+{F=Courier New;b=N;S=10;c=0}{9650}1916
+{F=Courier New;b=N;S=10;c=0}{10610}1916{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5917
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc.em consig.mercantil ou industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1917
+{F=Courier New;b=N;S=10;c=0}{10610}1917{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5918
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.receb.consig.mercantil ou industrial
+{F=Courier New;b=N;S=10;c=0}{9650}1918
+{F=Courier New;b=N;S=10;c=0}{10610}1918{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5919
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.simb.merc.vend.util.proc.ind.rec.cons.mer
+{F=Courier New;b=N;S=10;c=0}{9650}1919
+{F=Courier New;b=N;S=10;c=0}{10610}1919{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5920
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa de vasilhame ou sacaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1920
+{F=Courier New;b=N;S=10;c=0}{10610}1920{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5921
+{F=Courier New;b=N;S=10;c=0}{1600}Devolucao de vasilhame ou sacaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1921
+{F=Courier New;b=N;S=10;c=0}{10610}1921{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5922
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.tit.simples fat.dec.venda p/ent.fut
+{F=Courier New;b=N;S=10;c=0}{9650}1922
+{F=Courier New;b=N;S=10;c=0}{10610}1922{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5923
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc.por cta ordem terc.em venda a ordem
+{F=Courier New;b=N;S=10;c=0}{9650}1923
+{F=Courier New;b=N;S=10;c=0}{10610}1923{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5924
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.p/ind.cta ord.adq.merc.qdo n.trans.est.ad
+{F=Courier New;b=N;S=10;c=0}{9650}1924
+{F=Courier New;b=N;S=10;c=0}{10610}1924{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5925
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rec.ind.p/cta.ord.adq.qdo.n.trans.es
+{F=Courier New;b=N;S=10;c=0}{9650}1925
+{F=Courier New;b=N;S=10;c=0}{10610}1925{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5926
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.tit.rec.merc.dec.form.kit ou desagr
+{F=Courier New;b=N;S=10;c=0}{9650}1926
+{F=Courier New;b=N;S=10;c=0}{10610}1926{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5927
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.tit.bx.est.dec.perda,roubo ou deter
+{F=Courier New;b=N;S=10;c=0}{9650}1927
+{F=Courier New;b=N;S=10;c=0}{10610}1927{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5928
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.tit.bx.est.dec.encerr.ativ.empresa 
+{F=Courier New;b=N;S=10;c=0}{9650}1928
+{F=Courier New;b=N;S=10;c=0}{10610}1928{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5929
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.dec.emis.doc.fiscal rel.op.reg. ECF
+{F=Courier New;b=N;S=10;c=0}{9650}1929
+{F=Courier New;b=N;S=10;c=0}{10610}1929{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5931
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.dec.resp.ret.imp.ST,atr.rem.al.merc
+{F=Courier New;b=N;S=10;c=0}{9650}1931
+{F=Courier New;b=N;S=10;c=0}{10610}1931{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5932
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.iniciada UF div.inscr.prest
+{F=Courier New;b=N;S=10;c=0}{9650}1932
+{F=Courier New;b=N;S=10;c=0}{10610}1932{\n}
+{F=Courier New;b=N;S=10;c=0}{810}5949
+{F=Courier New;b=N;S=10;c=0}{1600}Outra saida merc.ou prest.serv.nao especific.
+{F=Courier New;b=N;S=10;c=0}{9650}1949
+{F=Courier New;b=N;S=10;c=0}{10610}1949{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6100
+{F=Courier New;b=N;S=10;c=0}{1600}VENDAS DE PRODUCAO PROPRIA OU DE TERCEIROS 
+{F=Courier New;b=N;S=10;c=0}{9650}1100
+{F=Courier New;b=N;S=10;c=0}{10610}1100{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6101
+{F=Courier New;b=N;S=10;c=0}{1600}Venda de producao do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6102
+{F=Courier New;b=N;S=10;c=0}{1600}Venda mercadoria adq.ou recebida de terceiros
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6103
+{F=Courier New;b=N;S=10;c=0}{1600}Venda producao do estab.,efetuada fora estab.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6104
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.ou receb.terc.,efet.fora estab
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6105
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.que nao deva por ele transit
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6106
+{F=Courier New;b=N;S=10;c=0}{1600}Venda m.adq.rec.terc,que nao deva p/ele trans
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6107
+{F=Courier New;b=N;S=10;c=0}{1600}Venda producao estab.,destinada a nao contrib
+{F=Courier New;b=N;S=10;c=0}{9650}0000
+{F=Courier New;b=N;S=10;c=0}{10610}0000{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6108
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.ou receb.terc,dest.a nao contr
+{F=Courier New;b=N;S=10;c=0}{9650}0000
+{F=Courier New;b=N;S=10;c=0}{10610}0000{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6109
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab,dest.Zona Fr.Manaus/ar.L.Com
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6110
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc,dest.Zona Fr.Manaus
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{\np}
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}ERRO{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}17/02/2013 22:59{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE CFOPs - {TAB=150}{c=8}01.03.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}ERRO{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}00ERRO{F=Courier New;U=n;S=10}{TAB=100}{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}ERRO{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}ERRO{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1530} *-----------------DESCRIÇÃO DO CÓDIGO FISCAL DE OPERAÇÃO-----------------*
+{F=Courier New;b=Y;S=08;c=0}{9300} *-C. IND-*
+{F=Courier New;b=Y;S=08;c=0}{10310} *-C. COM-*{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6111
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.rem.ant.consig.industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6112
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.rem.ant.consig.ind.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6113
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.rem.ant.consig.mercantil 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6114
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.rem.ant.consig.merc.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6115
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.rec.ant.consig.merc.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6116
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.orig.encom.p/entrega futura 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6117
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.orig.enc.p/ent.futura
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6118
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.ent.dest.p/cta.ord.adq.orig.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6119
+{F=Courier New;b=N;S=10;c=0}{1600}Venda m.adq.rec.terc.ent.dest.cta.ord.adq.or.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6120
+{F=Courier New;b=N;S=10;c=0}{1600}Venda m.adq.rec.terc.ent.dest.p/vendedor rem.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6122
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.rem.p/ind.p/cta.ord.adquir.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6123
+{F=Courier New;b=N;S=10;c=0}{1600}Venda m.adq.rec.terc.rem.p/ind.p/cta.ord.adq.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6124
+{F=Courier New;b=N;S=10;c=0}{1600}Industrializacao efetuada para outra empresa 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6125
+{F=Courier New;b=N;S=10;c=0}{1600}Industrializacao efetuada para outra empresa 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6150
+{F=Courier New;b=N;S=10;c=0}{1600}TRANSFERENCIAS DE PRODUCAO PROPRIA OU DE TERC
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6151
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de producao do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6152
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia merc.adq.ou rec.terceiros 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6153
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de energia eletrica 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6155
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.prod.est,que nao deva p/ele transitar 
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6156
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.m.adq.rec.terc,que n.deva p/ele trans.
+{F=Courier New;b=N;S=10;c=0}{9650}1101
+{F=Courier New;b=N;S=10;c=0}{10610}1102{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6200
+{F=Courier New;b=N;S=10;c=0}{1600}DEV.COMPRAS P/INDUSTR,COMERC.OU ANULACOES VAL
+{F=Courier New;b=N;S=10;c=0}{9650}1200
+{F=Courier New;b=N;S=10;c=0}{10610}1200{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6201
+{F=Courier New;b=N;S=10;c=0}{1600}Devolucao de compra para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6202
+{F=Courier New;b=N;S=10;c=0}{1600}Devolucao de compra para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6205
+{F=Courier New;b=N;S=10;c=0}{1600}Anulacao valor rel.aquis.serv.comunicacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6206
+{F=Courier New;b=N;S=10;c=0}{1600}Anulacao valor rel.aquis.serv.transporte 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6207
+{F=Courier New;b=N;S=10;c=0}{1600}Anulacao valor rel.compra energia eletrica 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6208
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.rec.transf.para industrializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6209
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.rec.transf.para comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6210
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra p/utiliz.prestacao de servico 
+{F=Courier New;b=N;S=10;c=0}{9650}1201
+{F=Courier New;b=N;S=10;c=0}{10610}1202{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6250
+{F=Courier New;b=N;S=10;c=0}{1600}VENDAS DE ENERGIA ELETRICA 
+{F=Courier New;b=N;S=10;c=0}{9650}1250
+{F=Courier New;b=N;S=10;c=0}{10610}1250{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6251
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/distrib.ou comercializacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1251
+{F=Courier New;b=N;S=10;c=0}{10610}1251{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6252
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estabelecimento industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1252
+{F=Courier New;b=N;S=10;c=0}{10610}1252{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6253
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estabelecimento comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1253
+{F=Courier New;b=N;S=10;c=0}{10610}1253{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6254
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estab.prestador serv.transp.
+{F=Courier New;b=N;S=10;c=0}{9650}1254
+{F=Courier New;b=N;S=10;c=0}{10610}1254{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6255
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estab.prestador serv.comunic
+{F=Courier New;b=N;S=10;c=0}{9650}1255
+{F=Courier New;b=N;S=10;c=0}{10610}1255{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6256
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/estab.de produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1256
+{F=Courier New;b=N;S=10;c=0}{10610}1256{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6257
+{F=Courier New;b=N;S=10;c=0}{1600}Venda en.eletr.p/consumo p/demanda contratada
+{F=Courier New;b=N;S=10;c=0}{9650}1257
+{F=Courier New;b=N;S=10;c=0}{10610}1257{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6258
+{F=Courier New;b=N;S=10;c=0}{1600}Vendade energia eletrica a nao contribuinte 
+{F=Courier New;b=N;S=10;c=0}{9650}1258
+{F=Courier New;b=N;S=10;c=0}{10610}1258{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6300
+{F=Courier New;b=N;S=10;c=0}{1600}PRESTACOES DE SERVICOS DE COMUNICACAO 
+{F=Courier New;b=N;S=10;c=0}{9650}1300
+{F=Courier New;b=N;S=10;c=0}{10610}1300{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6301
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.p/exec.serv.mesma natureza
+{F=Courier New;b=N;S=10;c=0}{9650}1301
+{F=Courier New;b=N;S=10;c=0}{10610}1301{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6302
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.a estab. industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1302
+{F=Courier New;b=N;S=10;c=0}{10610}1302{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6303
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.a estab. comercial 
+{F=Courier New;b=N;S=10;c=0}{9650}1303
+{F=Courier New;b=N;S=10;c=0}{10610}1303{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6304
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.a estab.prest.serv.transp.
+{F=Courier New;b=N;S=10;c=0}{9650}1304
+{F=Courier New;b=N;S=10;c=0}{10610}1304{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6305
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.com.a estab.ger.ou dist de en.elet
+{F=Courier New;b=N;S=10;c=0}{9650}1305
+{F=Courier New;b=N;S=10;c=0}{10610}1305{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6306
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.comunic.a estab. produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1306
+{F=Courier New;b=N;S=10;c=0}{10610}1306{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6307
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.de comunicacao a nao contribuinte 
+{F=Courier New;b=N;S=10;c=0}{9650}1307
+{F=Courier New;b=N;S=10;c=0}{10610}1307{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6350
+{F=Courier New;b=N;S=10;c=0}{1600}PRESTACOES DE SERVICOS DE TRANSPORTE 
+{F=Courier New;b=N;S=10;c=0}{9650}1350
+{F=Courier New;b=N;S=10;c=0}{10610}1350{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6351
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.p/exec.serv. mesma natureza
+{F=Courier New;b=N;S=10;c=0}{9650}1351
+{F=Courier New;b=N;S=10;c=0}{10610}1351{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6352
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp. a estabelecimento industri
+{F=Courier New;b=N;S=10;c=0}{9650}1352
+{F=Courier New;b=N;S=10;c=0}{10610}1352{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6353
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp. a estabelecimento comercia
+{F=Courier New;b=N;S=10;c=0}{9650}1353
+{F=Courier New;b=N;S=10;c=0}{10610}1353{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6354
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.estab.prest.serv.comunic.
+{F=Courier New;b=N;S=10;c=0}{9650}1354
+{F=Courier New;b=N;S=10;c=0}{10610}1354{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6355
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.estab.ger.dist.en.eletrica 
+{F=Courier New;b=N;S=10;c=0}{9650}1355
+{F=Courier New;b=N;S=10;c=0}{10610}1355{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6356
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.estab. de produtor rural 
+{F=Courier New;b=N;S=10;c=0}{9650}1356
+{F=Courier New;b=N;S=10;c=0}{10610}1356{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6357
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp. a nao contribuinte 
+{F=Courier New;b=N;S=10;c=0}{9650}1357
+{F=Courier New;b=N;S=10;c=0}{10610}1357{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6400
+{F=Courier New;b=N;S=10;c=0}{1600}SAIDAS MERC.SUJEITAS AO REGIME DE SUBST.TRIB.
+{F=Courier New;b=N;S=10;c=0}{9650}1400
+{F=Courier New;b=N;S=10;c=0}{10610}1400{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6401
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.op.prod.suj.reg.subst.trib.
+{F=Courier New;b=N;S=10;c=0}{9650}1401
+{F=Courier New;b=N;S=10;c=0}{10610}1401{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6402
+{F=Courier New;b=N;S=10;c=0}{1600}Venda prod.estab.prod.suj.reg.subst.tribut.
+{F=Courier New;b=N;S=10;c=0}{9650}1402
+{F=Courier New;b=N;S=10;c=0}{10610}1402{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6403
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.adq.rec.terc.op.suj.reg.subst.trib
+{F=Courier New;b=N;S=10;c=0}{9650}1403
+{F=Courier New;b=N;S=10;c=0}{10610}1403{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6404
+{F=Courier New;b=N;S=10;c=0}{1600}Venda merc.suj.reg.ST c/imp.tenha sido ret.an
+{F=Courier New;b=N;S=10;c=0}{9650}0000
+{F=Courier New;b=N;S=10;c=0}{10610}0000{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6408
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.prod.estab.op.suj.reg.subst.tributaria
+{F=Courier New;b=N;S=10;c=0}{9650}1408
+{F=Courier New;b=N;S=10;c=0}{10610}1408{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6409
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.merc.adq.rec.ter.op.suj.reg.subst.trib
+{F=Courier New;b=N;S=10;c=0}{9650}1409
+{F=Courier New;b=N;S=10;c=0}{10610}1409{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6410
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra p/ind.op.suj.reg.subst.tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1410
+{F=Courier New;b=N;S=10;c=0}{10610}1410{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6411
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra p/comerc.op.suj.reg.subst.tribut.
+{F=Courier New;b=N;S=10;c=0}{9650}1411
+{F=Courier New;b=N;S=10;c=0}{10610}1411{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6412
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.bem ativo imob.op.suj.reg.subst.tribut.
+{F=Courier New;b=N;S=10;c=0}{9650}1412
+{F=Courier New;b=N;S=10;c=0}{10610}1412{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6413
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.dest.uso/cons.op.suj.reg.subst.trib.
+{F=Courier New;b=N;S=10;c=0}{9650}1413
+{F=Courier New;b=N;S=10;c=0}{10610}1413{\n}
+{\np}
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}ERRO{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}17/02/2013 22:59{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE CFOPs - {TAB=150}{c=8}01.03.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}ERRO{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}00ERRO{F=Courier New;U=n;S=10}{TAB=100}{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100}ERRO {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}ERRO{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}ERRO{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}ERRO{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=08;c=0}{500} *-CÓDIGO-*
+{F=Courier New;b=Y;S=08;c=0}{1530} *-----------------DESCRIÇÃO DO CÓDIGO FISCAL DE OPERAÇÃO-----------------*
+{F=Courier New;b=Y;S=08;c=0}{9300} *-C. IND-*
+{F=Courier New;b=Y;S=08;c=0}{10310} *-C. COM-*{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6414
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.prod.estab.p/vda.fora estab.op.suj.reg.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1414
+{F=Courier New;b=N;S=10;c=0}{10610}1414{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6415
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.m.adq.rec.terc.p/vda fora estab.op.suj.ST
+{F=Courier New;b=N;S=10;c=0}{9650}1415
+{F=Courier New;b=N;S=10;c=0}{10610}1415{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6500
+{F=Courier New;b=N;S=10;c=0}{1600}REMESSAS C/FIM ESPECIF.EXPORT.E EVENTUAIS DEV
+{F=Courier New;b=N;S=10;c=0}{9650}1500
+{F=Courier New;b=N;S=10;c=0}{10610}1500{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6501
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.prod.estab.c/fim especifico de exportacao
+{F=Courier New;b=N;S=10;c=0}{9650}1501
+{F=Courier New;b=N;S=10;c=0}{10610}1501{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6502
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc.adq.rec.terc.c/fim espec. exportacao
+{F=Courier New;b=N;S=10;c=0}{9650}1502
+{F=Courier New;b=N;S=10;c=0}{10610}1502{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6503
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.rec.rec.c/fim espec. de exportacao 
+{F=Courier New;b=N;S=10;c=0}{9650}1503
+{F=Courier New;b=N;S=10;c=0}{10610}1503{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6550
+{F=Courier New;b=N;S=10;c=0}{1600}OPER.C/BENS ATIVO IMOB.E MAT.P/USO OU CONSUMO
+{F=Courier New;b=N;S=10;c=0}{9650}1550
+{F=Courier New;b=N;S=10;c=0}{10610}1550{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6551
+{F=Courier New;b=N;S=10;c=0}{1600}Venda de bem do ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1551
+{F=Courier New;b=N;S=10;c=0}{10610}1551{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6552
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de bem do ativo imobilizado 
+{F=Courier New;b=N;S=10;c=0}{9650}1552
+{F=Courier New;b=N;S=10;c=0}{10610}1552{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6553
+{F=Courier New;b=N;S=10;c=0}{1600}Devolucao compra bem para o ativo imobilizado
+{F=Courier New;b=N;S=10;c=0}{9650}1553
+{F=Courier New;b=N;S=10;c=0}{10610}1553{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6554
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.bem ativo imob.p/uso fora estabelecimento
+{F=Courier New;b=N;S=10;c=0}{9650}1554
+{F=Courier New;b=N;S=10;c=0}{10610}1554{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6555
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.bem ativo imob.de terc.rec.p/uso no estab
+{F=Courier New;b=N;S=10;c=0}{9650}1555
+{F=Courier New;b=N;S=10;c=0}{10610}1555{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6556
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra de material de uso ou consumo 
+{F=Courier New;b=N;S=10;c=0}{9650}1556
+{F=Courier New;b=N;S=10;c=0}{10610}1556{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6557
+{F=Courier New;b=N;S=10;c=0}{1600}Transferencia de material de uso ou consumo 
+{F=Courier New;b=N;S=10;c=0}{9650}1557
+{F=Courier New;b=N;S=10;c=0}{10610}1557{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6600
+{F=Courier New;b=N;S=10;c=0}{1600}CREDITOS E RESSARCIMENTOS DE ICMS 
+{F=Courier New;b=N;S=10;c=0}{9650}1600
+{F=Courier New;b=N;S=10;c=0}{10610}1600{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6603
+{F=Courier New;b=N;S=10;c=0}{1600}Ressarc.ICMS ret.por substituicao tributaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1603
+{F=Courier New;b=N;S=10;c=0}{10610}1603{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6650
+{F=Courier New;b=N;S=10;c=0}{1600}SAIDAS COMB, DERIV.OU NAO PETROLEO,E LUBRIF.
+{F=Courier New;b=N;S=10;c=0}{9650}1650
+{F=Courier New;b=N;S=10;c=0}{10610}1650{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6651
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.prod.estab.dest.ind.subseq.
+{F=Courier New;b=N;S=10;c=0}{9650}1651
+{F=Courier New;b=N;S=10;c=0}{10610}1651{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6652
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.prod.estab.dest.comercializ
+{F=Courier New;b=N;S=10;c=0}{9650}1652
+{F=Courier New;b=N;S=10;c=0}{10610}1652{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6653
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.prod.est.dest.cons.us.final
+{F=Courier New;b=N;S=10;c=0}{9650}1653
+{F=Courier New;b=N;S=10;c=0}{10610}1653{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6654
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.adq.rec.terc.dest.ind.subsq
+{F=Courier New;b=N;S=10;c=0}{9650}1654
+{F=Courier New;b=N;S=10;c=0}{10610}1654{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6655
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.adq.rec.terc.dest.a comerc.
+{F=Courier New;b=N;S=10;c=0}{9650}1655
+{F=Courier New;b=N;S=10;c=0}{10610}1655{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6656
+{F=Courier New;b=N;S=10;c=0}{1600}Venda comb.lubrif.adq.rec.terc.dest.a consum.
+{F=Courier New;b=N;S=10;c=0}{9650}1656
+{F=Courier New;b=N;S=10;c=0}{10610}1656{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6657
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.comb.lubr.adq.rec.terc.p/vda fora estab.
+{F=Courier New;b=N;S=10;c=0}{9650}1657
+{F=Courier New;b=N;S=10;c=0}{10610}1657{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6658
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.comb.lubr.producao do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1658
+{F=Courier New;b=N;S=10;c=0}{10610}1658{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6659
+{F=Courier New;b=N;S=10;c=0}{1600}Transf.comb.lubr.adq.ou recebido de terceiro 
+{F=Courier New;b=N;S=10;c=0}{9650}1659
+{F=Courier New;b=N;S=10;c=0}{10610}1659{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6660
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra comb.lubr.adq.p/industr.subsequent
+{F=Courier New;b=N;S=10;c=0}{9650}1660
+{F=Courier New;b=N;S=10;c=0}{10610}1660{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6661
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra comb.lubr.adq.para comercializacao
+{F=Courier New;b=N;S=10;c=0}{9650}1661
+{F=Courier New;b=N;S=10;c=0}{10610}1661{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6662
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.compra comb.lubr.adq.p/consumid.ou us.fin
+{F=Courier New;b=N;S=10;c=0}{9650}1662
+{F=Courier New;b=N;S=10;c=0}{10610}1662{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6663
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.p/armazenagem de combust.ou lubrificante
+{F=Courier New;b=N;S=10;c=0}{9650}1663
+{F=Courier New;b=N;S=10;c=0}{10610}1663{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6664
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.comb.lubrif. recebido para armazenagem 
+{F=Courier New;b=N;S=10;c=0}{9650}1664
+{F=Courier New;b=N;S=10;c=0}{10610}1664{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6665
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.simb.comb.lubr.recebido para armazenagem 
+{F=Courier New;b=N;S=10;c=0}{9650}1665
+{F=Courier New;b=N;S=10;c=0}{10610}1665{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6666
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.conta ordem terc.comb.lubr.rec.p/armazen.
+{F=Courier New;b=N;S=10;c=0}{9650}1666
+{F=Courier New;b=N;S=10;c=0}{10610}1666{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6900
+{F=Courier New;b=N;S=10;c=0}{1600}OUTRAS SAIDAS DE MERC.OU PREST.DE SERVICOS 
+{F=Courier New;b=N;S=10;c=0}{9650}1900
+{F=Courier New;b=N;S=10;c=0}{10610}1900{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6901
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa para industrializacao por encomenda 
+{F=Courier New;b=N;S=10;c=0}{9650}1901
+{F=Courier New;b=N;S=10;c=0}{10610}1901{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6902
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.utiliz.na industrializ.por encomenda
+{F=Courier New;b=N;S=10;c=0}{9650}1902
+{F=Courier New;b=N;S=10;c=0}{10610}1902{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6903
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rec.p/industrializ.e nao aplicada
+{F=Courier New;b=N;S=10;c=0}{9650}1903
+{F=Courier New;b=N;S=10;c=0}{10610}1903{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6904
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa para venda fora do estabelecimento 
+{F=Courier New;b=N;S=10;c=0}{9650}1904
+{F=Courier New;b=N;S=10;c=0}{10610}1904{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6905
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa p/ deposito fechado ou armazem geral 
+{F=Courier New;b=N;S=10;c=0}{9650}1905
+{F=Courier New;b=N;S=10;c=0}{10610}1905{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6906
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.de merc.depos.em dep.fechado ou arm.geral
+{F=Courier New;b=N;S=10;c=0}{9650}1906
+{F=Courier New;b=N;S=10;c=0}{10610}1906{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6907
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.simb.merc.depos.em dep.fech. ou arm.geral
+{F=Courier New;b=N;S=10;c=0}{9650}1907
+{F=Courier New;b=N;S=10;c=0}{10610}1907{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6908
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.de bem por conta de contrato de comodato 
+{F=Courier New;b=N;S=10;c=0}{9650}1908
+{F=Courier New;b=N;S=10;c=0}{10610}1908{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6909
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.bem recebido por conta de contr. comodato
+{F=Courier New;b=N;S=10;c=0}{9650}1909
+{F=Courier New;b=N;S=10;c=0}{10610}1909{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6910
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa em bonificacao, doacao ou brinde 
+{F=Courier New;b=N;S=10;c=0}{9650}1910
+{F=Courier New;b=N;S=10;c=0}{10610}1910{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6911
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa de amostra gratis 
+{F=Courier New;b=N;S=10;c=0}{9650}1911
+{F=Courier New;b=N;S=10;c=0}{10610}1911{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6912
+{F=Courier New;b=N;S=10;c=0}{1600}Rem. de mercadoria ou bem para demonstracao 
+{F=Courier New;b=N;S=10;c=0}{9650}1912
+{F=Courier New;b=N;S=10;c=0}{10610}1912{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6913
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc. ou bem recebido para demonstracao 
+{F=Courier New;b=N;S=10;c=0}{9650}1913
+{F=Courier New;b=N;S=10;c=0}{10610}1913{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6914
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc. ou bem para exposicao ou feira 
+{F=Courier New;b=N;S=10;c=0}{9650}1914
+{F=Courier New;b=N;S=10;c=0}{10610}1914{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6915
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc. ou bem para conserto ou reparo 
+{F=Courier New;b=N;S=10;c=0}{9650}1915
+{F=Courier New;b=N;S=10;c=0}{10610}1915{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6916
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.ou bem recebido p/conserto ou reparo
+{F=Courier New;b=N;S=10;c=0}{9650}1916
+{F=Courier New;b=N;S=10;c=0}{10610}1916{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6917
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc.em consig.mercantil ou industrial 
+{F=Courier New;b=N;S=10;c=0}{9650}1917
+{F=Courier New;b=N;S=10;c=0}{10610}1917{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6918
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.merc.receb.consig.mercantil ou industrial
+{F=Courier New;b=N;S=10;c=0}{9650}1918
+{F=Courier New;b=N;S=10;c=0}{10610}1918{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6919
+{F=Courier New;b=N;S=10;c=0}{1600}Dev.simb.merc.vend.util.proc.ind.rec.cons.mer
+{F=Courier New;b=N;S=10;c=0}{9650}1919
+{F=Courier New;b=N;S=10;c=0}{10610}1919{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6920
+{F=Courier New;b=N;S=10;c=0}{1600}Remessa de vasilhame ou sacaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1920
+{F=Courier New;b=N;S=10;c=0}{10610}1920{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6921
+{F=Courier New;b=N;S=10;c=0}{1600}Devolucao de vasilhame ou sacaria 
+{F=Courier New;b=N;S=10;c=0}{9650}1921
+{F=Courier New;b=N;S=10;c=0}{10610}1921{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6922
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.tit.simples fat.dec.venda p/ent.fut
+{F=Courier New;b=N;S=10;c=0}{9650}1922
+{F=Courier New;b=N;S=10;c=0}{10610}1922{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6923
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.merc.por cta ordem terc.em venda a ordem
+{F=Courier New;b=N;S=10;c=0}{9650}1923
+{F=Courier New;b=N;S=10;c=0}{10610}1923{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6924
+{F=Courier New;b=N;S=10;c=0}{1600}Rem.p/ind.cta ord.adq.merc.qdo n.trans.est.ad
+{F=Courier New;b=N;S=10;c=0}{9650}1924
+{F=Courier New;b=N;S=10;c=0}{10610}1924{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6925
+{F=Courier New;b=N;S=10;c=0}{1600}Ret.merc.rec.ind.p/cta.ord.adq.qdo.n.trans.es
+{F=Courier New;b=N;S=10;c=0}{9650}1925
+{F=Courier New;b=N;S=10;c=0}{10610}1925{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6929
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.dec.emis.doc.fiscal rel.op.reg. ECF
+{F=Courier New;b=N;S=10;c=0}{9650}1929
+{F=Courier New;b=N;S=10;c=0}{10610}1929{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6931
+{F=Courier New;b=N;S=10;c=0}{1600}Lancto ef.dec.resp.ret.imp.ST,atr.rem.al.merc
+{F=Courier New;b=N;S=10;c=0}{9650}1931
+{F=Courier New;b=N;S=10;c=0}{10610}1931{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6932
+{F=Courier New;b=N;S=10;c=0}{1600}Prest.serv.transp.iniciada UF div.inscr.prest
+{F=Courier New;b=N;S=10;c=0}{9650}1932
+{F=Courier New;b=N;S=10;c=0}{10610}1932{\n}
+{F=Courier New;b=N;S=10;c=0}{810}6949
+{F=Courier New;b=N;S=10;c=0}{1600}Outra saida merc.ou prest.serv.nao especific.
+{F=Courier New;b=N;S=10;c=0}{9650}1949
+{F=Courier New;b=N;S=10;c=0}{10610}1949{\n}

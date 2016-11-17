@@ -1,0 +1,42 @@
+Orientation=1
+Papersize=A4
+Report_title=RELATÓRIO DE CADASTROS DE USUÁRIOS
+{f=Segoe UI Symbol;s=20;b=y}
+[header]
+[data]
+{pic=..\Imagens\LogoEmp.jpg,0420,420,2470,2280} 
+{Box=00400,0400,11050,16000}{Box=00400,0400,02500,02300}{Box=02900,0400,08550,02300} {\n}
+{f=Courier New;s=10;b=n}{F=Courier New}{400}RAZÃO SOCIAL.:{TAB=60}{F=Courier New}TECHSIS EMPRESA DEMONSTRAÇÃO - CONTROLE{b=N}{F=Courier New}{s=10;b=n}{8150}DATA.Hora.:{TAB=60}20/11/2012 08:26{b=N}
+{f=Courier New;s=12;b=y}{3900}{\n;\n} RELATÓRIO DE CADASTROS DE USUÁRIOS - {TAB=150}{c=8}09.01.00{c=0}{\n;\n}{b=N}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMPRESA..:{c=0}{b=N}{TAB=100}TECHSIS EMPRESA DEMONSTRAÇÃO - CONTROLE{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CNPJ/CPF.:{c=0}{b=N}{TAB=100}11.111.111/1111-80{F=Courier New;U=n;S=10}{7700}{b=Y}{c=8}INSCRIÇÃO EST.:{c=0}{b=N}{TAB=100}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}ENDEREÇO.:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}NUM.:{c=0}{b=N}{TAB=100}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}CIDADE...:{c=0}{b=N}{TAB=100}000001{F=Courier New;U=n;S=10}{TAB=100}UBERABA{9600}{b=Y}{F=Courier New;U=n;S=10}{8600}{b=Y}{c=8}UF.:{c=0}{b=N}{TAB=100}MG {F=Courier New;U=n;S=10}{9600}{b=Y}{c=8}CEP.:{c=0}{b=N}{TAB=100}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}BAIRRO...:{c=0}{b=N}{TAB=100} {F=Courier New;U=n;S=10}{7000}{b=Y}{c=8}COMPLE.:{c=0}{b=N}{TAB=100}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}TELEFONE.:{c=0}{b=N}{TAB=60}{F=Courier New;U=n;S=10}{6200}{b=Y}{c=8}FAX...:{c=0}{b=N}{TAB=60}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}EMAIL....:{c=0}{b=N}{TAB=60}{c=9}{\n}
+{F=Courier New;U=n;S=10}{3000}{b=Y}{c=8}HOME PAGE:{c=0}{b=N}{TAB=60}{c=9}{c=0}{10000}PÁGINA.:{11000}{c=5}{PAG}{\n}{\n}
+{F=Courier New;b=Y;S=10;c=0}{480} *-CÓDIGO-*
+{F=Courier New;b=Y;S=10;c=0}{1730} *-----------------DESCRIÇÃO DO USUÁRIO----------------*
+{F=Courier New;b=Y;S=10;c=0}{8350} *-PERMISSÃO-*
+{F=Courier New;b=Y;S=10;c=0}{9950} *-EMPRESA-* {\n}
+{F=Courier New;b=N;S=10;c=0}{720}000001
+{F=Courier New;b=N;S=10;c=0}{1860}TechSIS MASTER
+{F=Courier New;b=N;S=10;c=0}{8400}TOTAL
+{F=Courier New;b=N;S=10;c=0}{10260}000001{\n}
+{F=Courier New;b=N;S=10;c=0}{720}000002
+{F=Courier New;b=N;S=10;c=0}{1860}2 USUÁRIO DEMONSTRAÇÃO - EXPRESS
+{F=Courier New;b=N;S=10;c=0}{8400}TOTAL
+{F=Courier New;b=N;S=10;c=0}{10260}000002{\n}
+{F=Courier New;b=N;S=10;c=0}{720}000003
+{F=Courier New;b=N;S=10;c=0}{1860}3 USUÁRIO DEMONSTRAÇÃO - BUSINESS
+{F=Courier New;b=N;S=10;c=0}{8400}TOTAL
+{F=Courier New;b=N;S=10;c=0}{10260}000003{\n}
+{F=Courier New;b=N;S=10;c=0}{720}000004
+{F=Courier New;b=N;S=10;c=0}{1860}4 USUÁRIO DEMONSTRAÇÃO - CONTROLE
+{F=Courier New;b=N;S=10;c=0}{8400}TOTAL
+{F=Courier New;b=N;S=10;c=0}{10260}000004{\n}
+{F=Courier New;b=N;S=10;c=0}{720}000005
+{F=Courier New;b=N;S=10;c=0}{1860}5 USUÁRIO DEMONSTRAÇÃO - PRÓ
+{F=Courier New;b=N;S=10;c=0}{8400}TOTAL
+{F=Courier New;b=N;S=10;c=0}{10260}000005{\n}

@@ -1,0 +1,9 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\bin\Release\PesCidad.cs.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\bin\Release\PesCidad.cs.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\bin\Release\CfgComun.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\bin\Release\CfgComun.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\obj\Release\PesCidad.cs.PesCidad.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\obj\Release\PesCidad.cs.csproj.GenerateResource.Cache
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\obj\Release\PesCidad.cs.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\obj\Release\PesCidad.cs.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\PesCidad.cs\obj\Release\PesCidad.cs.csprojResolveAssemblyReference.cache

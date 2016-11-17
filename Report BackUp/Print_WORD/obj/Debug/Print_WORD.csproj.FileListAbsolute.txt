@@ -1,0 +1,5 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\bin\Debug\Print_WORD.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\bin\Debug\Print_WORD.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\obj\Debug\Print_WORD.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\obj\Debug\Print_WORD.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\obj\Debug\Print_WORD.csprojResolveAssemblyReference.cache

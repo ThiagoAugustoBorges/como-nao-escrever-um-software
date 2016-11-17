@@ -1,0 +1,10 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\bin\Release\TabConfg.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\bin\Release\TabConfg.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\bin\Release\CfgComun.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\bin\Release\CfgComun.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\obj\Release\TabConfg.Properties.Resources.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\obj\Release\TabConfg.TabConfg.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\obj\Release\TabConfg.csproj.GenerateResource.Cache
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\obj\Release\TabConfg.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\obj\Release\TabConfg.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\TabConfg\obj\Release\TabConfg.csprojResolveAssemblyReference.cache

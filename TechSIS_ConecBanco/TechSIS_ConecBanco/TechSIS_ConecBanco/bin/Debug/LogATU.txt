@@ -1,0 +1,185 @@
+---------------------------------------------------------------------------------------
+DATA.: 15/11/2012      ARQUIVO.: TODO O SISTEMA           TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Atualização do tipo e senha da criptografia, agora o sistema está mais 
+seguro, pois foram adicionados acentuação, letras com caixa alta e caixa baixa, alem
+da troca do tipo de criptografia
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 12/11/2012      ARQUIVO.: TechSIS_BWK.exe          TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Adicionado 2 botões de atalho, que podem ser configurados na configuração
+geral do sistema, que permite que o usuário tenha de fácil acesso, a qualquer opção
+do sitema.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 05/11/2012      ARQUIVO.: TechSIS_BWK.exe          TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Implementação do formulário de troca de imagem de fundo dos relatórios em RPV
+no botão direito do Mouse no menu principal do sistema.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 05/11/2012      ARQUIVO.: TabCidad.dll             TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: DLL TabCidad foi completamente refeita, para melhorar possíveis atualizações, 
+já que o código foi completamente reogarnizado. Também foi adicionado a referência as 
+novas DLLs de impressão.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 04/11/2012      ARQUIVO.: TechSIS_BWK.exe          TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Foi revisto a maneira de como o Software identifica um usuário offline, e
+ficou decidido, que para não se julgar OFFLINE, o usuário deverá abrir uma nova opção
+a cada fraçao de tempo definida na configuração geral (Kaio)
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 03/11/2012      ARQUIVO.: TechSIS_BWK.exe          TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Devido a uma falha de segurança, agora quando o usuário está OCIOSO, o sistema
+é reiniciado. Porem, antes de reiniciar, o usuário pode gravar, ou alterar dados
+pendentes que ainda não tinham sido finalizados.
+PS.: Para o usuário não ser considerado "OCIOSO", ele tem que abrir alguma opção até
+que o prazo na configuração geral seja atingido.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 03/11/2012      ARQUIVO.: TechSIS_DownATU.exe      TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Implementado um arquivo de Manifesto, que agora obriga o executável a abrir
+como administrador do sistema operacional.
+Agora a permissão do executável é total no sistema
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 03/11/2012      ARQUIVO.: TechSIS_ConecBanco.exe   TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Implementada compatibilidade do instaldor do sistema com o novo sistema
+operacional Windows 8, também foi implementada a compatibilidade com versões do SQL
+inferiores ao 2008.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 29/10/2012      ARQUIVO.: TabPermi.dll             TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: DLL TabPermi foi completamente refeita, para dar lugar ao campo novo BLOCOS
+que será utilizado para dar permissões por blocos de programas ao usuário. Também foi 
+adicionado a referência as novas DLLs de impressão.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 28/10/2012      ARQUIVO.: TechSIS_BWK.exe           TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Implementado o formulário de troca de fundo do sistema, agora o usário podera
+adicionar a imagem .PNG ao fundo do formulário. A imagem não tem limite de tamanho
+nem de dimensão, apenas de extenção .PNG
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 27/10/2012      ARQUIVO.: TabUsuar.dll              TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: DLL TabUsuar foi completamente refeita, para dar lugar ao campo novo EMPRESA
+que será utilizado para verificar qual a empresa preferêncial do usuário. Também foi 
+adicionado a referência as novas DLLs de impressão.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 24/10/2012      ARQUIVO.: TabProgr.dll              TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: DLL TabProgr foi completamente refeita, para dar lugar ao campo novo MÓDULO
+que será utilizado para verificar qual módulo tem acesso a qual opção. Também foi 
+adicionado a referência as novas DLLs de impressão.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 24/10/2012      ARQUIVO.: VideoAulas.xml             TIPO.: CRIAÇÃO
+
+MOTIVO.: Criação do arquivo VideoAulas.XML, agora, todo o pedido de ajuda do usuário
+será direcionado ao YouTube com exibição de video aulas, facilitando assim o 
+entendimento do funcionamento do sistema
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 22/10/2012      ARQUIVO.: Print_WORD.dll             TIPO.: CRIAÇÃO
+
+MOTIVO.: Criação da DLL Print_WORD, agora, todo o modulo de impressão em WORD
+vai passar por essa DLL, diminuindo assim o trabalho de programação e de manutenção
+PS.: Apenas no modo de impressão na aba de cada formulário que passa por essa DLL
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 22/10/2012      ARQUIVO.: Print_EXCEL.dll            TIPO.: CRIAÇÃO
+
+MOTIVO.: Criação da DLL Print_EXCEL, agora, todo o modulo de impressão em EXCEL
+vai passar por essa DLL, diminuindo assim o trabalho de programação e de manutenção
+PS.: Apenas no modo de impressão na aba de cada formulário que passa por essa DLL
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 22/10/2012      ARQUIVO.: Print_RPV.dll              TIPO.: CRIAÇÃO
+
+MOTIVO.: Criação da DLL Print_RPV, agora, todo o modulo de impressão em RPV vai passar
+por essa DLL, diminuindo assim o trabalho de programação e de manutenção
+PS.: Apenas no modo de impressão na aba de cada formulário que passa por essa DLL
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 20/10/2012      ARQUIVO.: TabEmpre.dll               TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Correção na aparencia das caixas de texto que são armazenados o email e o
+web site da empresa, agora são de caixa baixa e na cor azul, para ficarem parecidos
+com um web link
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 18/10/2012      ARQUIVO.: TechSIS_ConecBanco         TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Correção final em permissões para usuário WINDOWS no serviço de banco de
+dados. Antes era dada a permissão para o CurrentUser, agora é data a permissão
+para TODOS os usuários dos WINDOWS
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 17/10/2012      ARQUIVO.: TechSIS_ConecBanco         TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Correção do tratamento de erro do executável. Agora os erros são booleano.
+Caso este booleano retorne FALSE, a aplicação será fechada.
+Também uma Optimização dos comentários para uma melhor localização dentro do código.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 16/10/2012      ARQUIVO.: TechSIS_ConecBanco         TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Correção de pré-requisitos para a instalação em servidor. O sistema não 
+estava identificando quando o sql estava ou não instalado, agora está totalmente 
+funcional
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 16/10/2012      ARQUIVO.: TechSIS_ConecBanco         TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Agora qualquer arquivo excencial para a instalação através do executável
+TechSIS_ConecBanco será barrado se não for encontrado. Uma lista de arquivos será 
+gerado para que o usuário fique ciente do que está faltando
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 16/10/2012      ARQUIVO.: TechSIS_DownATU            TIPO.: CRIAÇÃO
+
+MOTIVO.: Criação do novo executável TechSIS_DownATU, que a partir de 16/10/2012 irá
+efetuar o download dos últimos arquivos de instalação, (Ex: Scripts do banco, arquivos
+.tech), antes de efetuar a instalação
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+DATA.: 16/10/2012      ARQUIVO.: AplReport.dll              TIPO.: ATUALIZAÇÃO
+
+MOTIVO.: Antes era possível efetuar um report sem colocar as informações como Nome 
+email e Cidade, agora os campos se tornaram obrigatórios.
+Também foi adicionado um método que verifica se o host FTP está online antes de
+efetuar o Upload do arquivo de reporte
+---------------------------------------------------------------------------------------

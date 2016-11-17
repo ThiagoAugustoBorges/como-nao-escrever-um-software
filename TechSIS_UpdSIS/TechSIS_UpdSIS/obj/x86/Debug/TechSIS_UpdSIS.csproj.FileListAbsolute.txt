@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Visual Studio 2010\TechSIS_UpdSIS\TechSIS_UpdSIS\bin\Debug\TechSIS_UpdSIS.exe
+C:\Users\Thiago\Documents\Visual Studio 2010\TechSIS_UpdSIS\TechSIS_UpdSIS\bin\Debug\TechSIS_UpdSIS.pdb
+C:\Users\Thiago\Documents\Visual Studio 2010\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.Properties.Resources.resources
+C:\Users\Thiago\Documents\Visual Studio 2010\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.TechSIS_UpdSIS.resources
+C:\Users\Thiago\Documents\Visual Studio 2010\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.csproj.GenerateResource.Cache
+C:\Users\Thiago\Documents\Visual Studio 2010\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.exe
+C:\Users\Thiago\Documents\Visual Studio 2010\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.exe
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_UpdSIS\TechSIS_UpdSIS\bin\Debug\TechSIS_UpdSIS.exe
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_UpdSIS\TechSIS_UpdSIS\bin\Debug\TechSIS_UpdSIS.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.Properties.Resources.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.TechSIS_UpdSIS.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.csproj.GenerateResource.Cache
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_UpdSIS\TechSIS_UpdSIS\obj\x86\Debug\TechSIS_UpdSIS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7CE8D212-8209-41DC-931A-4C2468D5940D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TabCidad</RootNamespace>
+    <AssemblyName>TabCidad</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FromEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromEx.Designer.cs">
+      <DependentUpon>FromEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TabCidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabCidad.Designer.cs">
+      <DependentUpon>TabCidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aba 1 - Form\TabCidad_MET.cs" />
+    <Compile Include="Aba 1 - Form\TabCidad_AppaButtons.cs" />
+    <Compile Include="Aba 1 - Form\TabCidad_CamposObrig.cs" />
+    <Compile Include="Aba 1 - Form\TabCidad_btnGravar.cs" />
+    <Compile Include="Aba 1 - Form\TabCidad_ExecSETAS.cs" />
+    <Compile Include="Aba 2 - Pesquisa\TabCidad_Pesquisa.cs" />
+    <Compile Include="Aba 5 - Histórico\TabCidad_Historico.cs" />
+    <Compile Include="Aba 3 - Impressão\TabCidad_Impressao.cs" />
+    <Compile Include="CLASS\TabCidad_FILTROS.cs" />
+    <Compile Include="CLASS\TabCidad_Permi.cs" />
+    <Compile Include="TabCidad_CALL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FromEx.resx">
+      <DependentUpon>FromEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabCidad.resx">
+      <DependentUpon>TabCidad.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\AplLixeira\AplLixeira.csproj">
+      <Project>{6E9F31C6-3A4D-4DA8-9F6E-8D13997787E5}</Project>
+      <Name>AplLixeira</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CfgComun\CfgComun.csproj">
+      <Project>{B59259B0-C951-4E02-B038-69BC0CE23F99}</Project>
+      <Name>CfgComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesCidad.cs\PesCidad.cs.csproj">
+      <Project>{F4A05902-AA1A-4656-9E99-CFB136845096}</Project>
+      <Name>PesCidad.cs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesMunic.cs\PesMunic.cs.csproj">
+      <Project>{24DF1FE5-9D5A-44C0-93A8-F5D7BAC55185}</Project>
+      <Name>PesMunic.cs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesPaise.cs\PesPaise.cs.csproj">
+      <Project>{69C50EB4-D8B0-48E8-AB33-1219F389A1F4}</Project>
+      <Name>PesPaise.cs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PesUsuar.cs\PesUsuar.cs.csproj">
+      <Project>{5371FCDD-BC77-4F6F-8E47-5C57CC262AFE}</Project>
+      <Name>PesUsuar.cs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aba 4 - Lixeira\TabCidad_Lixeira.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

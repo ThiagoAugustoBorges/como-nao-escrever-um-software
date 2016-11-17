@@ -1,0 +1,7 @@
+TIPO DE REPORT.....: ADICIONAR CAMPO
+NOME DO CLIENTE....: THIAGO BORGES
+EMAIL DO CLIENTE...: thiago.augb@hotmail.com
+CIDADE DO CLIENTE..: PATOS DE MINAS
+ 
+ 
+TEXTO.: Preciso de um novo campo no cadastro de clientes,

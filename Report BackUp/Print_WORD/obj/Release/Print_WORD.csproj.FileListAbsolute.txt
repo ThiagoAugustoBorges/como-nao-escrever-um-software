@@ -1,0 +1,4 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\bin\Release\Print_WORD.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\bin\Release\Print_WORD.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\obj\Release\Print_WORD.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_WORD\obj\Release\Print_WORD.pdb

@@ -1,0 +1,5 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_EXCEL\bin\Debug\Print_EXCEL.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_EXCEL\bin\Debug\Print_EXCEL.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_EXCEL\obj\Debug\Print_EXCEL.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_EXCEL\obj\Debug\Print_EXCEL.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\Print_EXCEL\obj\Debug\Print_EXCEL.csprojResolveAssemblyReference.cache

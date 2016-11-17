@@ -1,0 +1,21 @@
+Orientation=1
+Papersize=A4
+Report_title=RELATÓRIO DE CADASTROS DE PROGRAMAS
+{f=Courier New Symbol;s=08;b=y}
+[header]
+[data]
+{pic=..\Imagens\LogoEmp.jpg,210,210,1900,1800} 
+{Box=00200,0200,11480,16400}{Box=00200,0200,01900,01800}{Box=02100,0200,09590,02300}
+{Box=0200,2000,1900,0500}{Box=2180,350,9410,0320}
+
+{f=Courier New;s=12;b=y}{6800}{\n}{\n}{A=C} RELATÓRIO DE CADASTRO DE CLIENTES - 09.01.05 {A=L}
+{b=n}
+{\n;\n}
+{F=Courier New;S=11;I=n;C=0}{2220}EMPRESA..:{I=y}{TAB=100}TECHSIS EMPRESA DEMONSTRAÇÃO - CONTROLE{\n}
+{F=Courier New;S=11;I=n;C=0}{2220}CNPJ/CPF.:{I=y}{TAB=100}11.111.111/1111-80				{F=Courier New;S=11;I=n;C=0}{8300}INS ES:{I=y}{TAB=100}155.154.215.155.{\n}
+{F=Courier New;S=11;I=n;C=0}{2220}ENDEREÇO.:{I=y}{TAB=100}AVENIDA BRASIL				{F=Courier New;S=11;I=n;C=0}{8300}NÚMERO:{I=y}{TAB=100}1065{\n}
+{F=Courier New;S=11;I=n;C=0}{2220}BAIRRO...:{I=y}{TAB=100}BRASIL					{F=Courier New;S=11;I=n;C=0}{8300}COMPLE:{I=y}{TAB=100}APART 103{\n}
+{F=Courier New;S=11;I=n;C=0}{2220}CIDADE...:{I=y}{TAB=100}000001{I=n}{TAB=100}UBERABA(MG){9600} 	{F=Courier New;S=11;I=n;C=0}{8300}CEP...:{I=y}{TAB=100}387050-657{\n}
+{F=Courier New;S=11;I=n;C=0}{2220}TELEFONE.:{I=n}{TAB=060}(34) 3821-3131				{F=Courier New;S=11;I=n;C=0}{8300}FAX...:{I=n}{TAB=060}(34) 3845-1564{\n}
+{F=Courier New;S=11;I=n;C=0}{2220}EMAIL....:{I=n}{TAB=100}{c=9}empresa@empresa.com.br{\n}
+{F=Courier New;S=11;I=n;C=0}{2220}HOME PAGE:{I=n}{TAB=100}{c=9}www.empresa.com.br{\n}

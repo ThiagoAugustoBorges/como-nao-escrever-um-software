@@ -1,0 +1,8 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_AddEmpre\TechSIS_AddEmpre\TechSIS_AddEmpre\obj\x86\Debug\TechSIS_AddEmpre.Properties.Resources.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_AddEmpre\TechSIS_AddEmpre\TechSIS_AddEmpre\obj\x86\Debug\TechSIS_AddEmpre.TechSIS_AddEmpre.resources
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_AddEmpre\TechSIS_AddEmpre\TechSIS_AddEmpre\obj\x86\Debug\TechSIS_AddEmpre.csproj.GenerateResource.Cache
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_AddEmpre\TechSIS_AddEmpre\TechSIS_AddEmpre\bin\Debug\TechSIS_AddEmpre.exe
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_AddEmpre\TechSIS_AddEmpre\TechSIS_AddEmpre\bin\Debug\TechSIS_AddEmpre.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_AddEmpre\TechSIS_AddEmpre\TechSIS_AddEmpre\obj\x86\Debug\TechSIS_AddEmpre.exe
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_AddEmpre\TechSIS_AddEmpre\TechSIS_AddEmpre\obj\x86\Debug\TechSIS_AddEmpre.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_AddEmpre\TechSIS_AddEmpre\TechSIS_AddEmpre\obj\x86\Debug\TechSIS_AddEmpre.csprojResolveAssemblyReference.cache

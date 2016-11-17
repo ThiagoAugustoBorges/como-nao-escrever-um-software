@@ -1,0 +1,15 @@
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\bin\Debug\CfgComun.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\bin\Debug\CfgComun.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\CfgComun.dll
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\CfgComun.pdb
+E:\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\CfgComun.csprojResolveAssemblyReference.cache
+D:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\bin\Debug\CfgComun.dll
+D:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\bin\Debug\CfgComun.pdb
+D:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\CfgComun.dll
+D:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\CfgComun.pdb
+E:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\bin\Debug\CfgComun.dll
+E:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\bin\Debug\CfgComun.pdb
+E:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\CfgComun.csprojResolveAssemblyReference.cache
+E:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\CfgComun.dll
+E:\Projetos\TechSIS Projeto\TechSIS_BWK\TechSIS_BWK\CfgComun\obj\Debug\CfgComun.pdb
